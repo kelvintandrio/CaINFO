@@ -5,14 +5,14 @@ plugins {
 }
 
 android {
-    compileSdkVersion (28)
+    compileSdkVersion (Dependencies.Android.compileSdkVersion)
     defaultConfig {
-        applicationId = "algorithm.kelvin.project.ca_info"
-        minSdkVersion (14)
-        targetSdkVersion (28)
-        versionCode = 1
-        versionName = "1.0"
-        testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
+        applicationId = Dependencies.Android.applicationId
+        minSdkVersion (Dependencies.Android.minSdkVersion)
+        targetSdkVersion (Dependencies.Android.targetSdkVersion)
+        versionCode = Dependencies.Android.versionCode
+        versionName = Dependencies.Android.versionName
+        testInstrumentationRunner = Dependencies.Android.testInstrumentationRunner
     }
     buildTypes {
         getByName("release"){
@@ -24,11 +24,11 @@ android {
 
 dependencies {
     implementation (fileTree(mapOf("dir" to "libs", "include" to listOf("*.jar"))))
-    implementation ("org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.3.50")
-    implementation ("androidx.appcompat:appcompat:1.0.2")
-    implementation ("androidx.core:core-ktx:1.0.2")
-    implementation ("androidx.constraintlayout:constraintlayout:1.1.3")
-    testImplementation ("junit:junit:4.12")
-    androidTestImplementation ("androidx.test:runner:1.2.0")
-    androidTestImplementation ("androidx.test.espresso:espresso-core:3.2.0")
+    implementation (Dependencies.Kotlin.kotlin_std)
+    implementation (Dependencies.SupportLibrary.appCompat)
+    implementation (Dependencies.SupportLibrary.constraintLayout)
+    implementation (Dependencies.SupportLibrary.coreKtx)
+    testImplementation (Dependencies.TestingLibrary.testJunit)
+    androidTestImplementation (Dependencies.TestingLibrary.androidTestRunner)
+    androidTestImplementation (Dependencies.TestingLibrary.androidTestEspresso)
 }
