@@ -5,6 +5,7 @@ private const val androidGradleVersion = "3.5.0"
 private const val appcompatVersion = "1.0.2"
 private const val coreKtxVersion = "1.0.2"
 private const val constraintLayoutVersion = "1.1.3"
+private const val legacySupportVersion = "1.0.0"
 
 //test libs
 private const val junitVersion = "4.12"
@@ -32,6 +33,7 @@ object Dependencies {
         const val appCompat = "androidx.appcompat:appcompat:${appcompatVersion}"
         const val coreKtx = "androidx.core:core-ktx:${coreKtxVersion}"
         const val constraintLayout = "androidx.constraintlayout:constraintlayout:${constraintLayoutVersion}"
+        const val legacySupport = "androidx.legacy:legacy-support-v4:${legacySupportVersion}"
     }
     object TestingLibrary {
         const val testJunit = "junit:junit:${junitVersion}"

@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">CaInfo</string>
+    <string name="movie">Movie</string>
+    <string name="tv_show">TV Show</string>
+    <string name="food">Food</string>
+    <string name="sports">Sports</string>
+    <string name="weather">Weather</string>
+    <string name="video">Video</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
