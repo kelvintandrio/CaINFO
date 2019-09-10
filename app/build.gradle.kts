@@ -25,11 +25,15 @@ android {
 dependencies {
     implementation(fileTree(mapOf("dir" to "libs", "include" to listOf("*.jar"))))
     implementation(Dependencies.Kotlin.kotlin_std)
+
     implementation(Dependencies.SupportLibrary.appCompat)
     implementation(Dependencies.SupportLibrary.constraintLayout)
     implementation(Dependencies.SupportLibrary.coreKtx)
     implementation(Dependencies.SupportLibrary.legacySupport)
+
     testImplementation(Dependencies.TestingLibrary.testJunit)
     androidTestImplementation(Dependencies.TestingLibrary.androidTestRunner)
     androidTestImplementation(Dependencies.TestingLibrary.androidTestEspresso)
+
+    implementation(project(":itemData"))
 }

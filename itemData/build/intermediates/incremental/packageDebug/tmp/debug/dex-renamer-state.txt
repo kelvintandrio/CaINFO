@@ -1,0 +1,4 @@
+#Tue Sep 10 15:05:59 WIB 2019
+base.0=/Users/mbp/Kelvin/ProjectKU/Android/Project Android/Ca-INFO/itemData/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
