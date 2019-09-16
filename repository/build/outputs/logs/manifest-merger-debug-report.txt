@@ -1,0 +1,37 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mbp/Kelvin/ProjectKU/Android/Project Android/Ca-INFO/repository/src/main/AndroidManifest.xml:1:1-59
+INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Project Android/Ca-INFO/repository/src/main/AndroidManifest.xml:1:1-59
+INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Project Android/Ca-INFO/repository/src/main/AndroidManifest.xml:1:1-59
+INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Project Android/Ca-INFO/repository/src/main/AndroidManifest.xml:1:1-59
+INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Project Android/Ca-INFO/repository/src/main/AndroidManifest.xml:1:1-59
+INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Project Android/Ca-INFO/repository/src/main/AndroidManifest.xml:1:1-59
+INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Project Android/Ca-INFO/repository/src/main/AndroidManifest.xml:1:1-59
+	package
+		ADDED from /Users/mbp/Kelvin/ProjectKU/Android/Project Android/Ca-INFO/repository/src/main/AndroidManifest.xml:1:11-56
+		INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Project Android/Ca-INFO/repository/src/main/AndroidManifest.xml
+		INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Project Android/Ca-INFO/repository/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Project Android/Ca-INFO/repository/src/main/AndroidManifest.xml
+		ADDED from /Users/mbp/Kelvin/ProjectKU/Android/Project Android/Ca-INFO/repository/src/main/AndroidManifest.xml:1:1-59
+		INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Project Android/Ca-INFO/repository/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mbp/Kelvin/ProjectKU/Android/Project Android/Ca-INFO/repository/src/main/AndroidManifest.xml:1:1-59
+	android:versionCode
+		INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Project Android/Ca-INFO/repository/src/main/AndroidManifest.xml
+		ADDED from /Users/mbp/Kelvin/ProjectKU/Android/Project Android/Ca-INFO/repository/src/main/AndroidManifest.xml:1:1-59
+		INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Project Android/Ca-INFO/repository/src/main/AndroidManifest.xml
+uses-sdk
+INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Project Android/Ca-INFO/repository/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Project Android/Ca-INFO/repository/src/main/AndroidManifest.xml
+INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Project Android/Ca-INFO/repository/src/main/AndroidManifest.xml
+INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Project Android/Ca-INFO/repository/src/main/AndroidManifest.xml
+INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Project Android/Ca-INFO/repository/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Project Android/Ca-INFO/repository/src/main/AndroidManifest.xml
+		ADDED from /Users/mbp/Kelvin/ProjectKU/Android/Project Android/Ca-INFO/repository/src/main/AndroidManifest.xml
+		INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Project Android/Ca-INFO/repository/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Project Android/Ca-INFO/repository/src/main/AndroidManifest.xml
+		ADDED from /Users/mbp/Kelvin/ProjectKU/Android/Project Android/Ca-INFO/repository/src/main/AndroidManifest.xml
+		INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Project Android/Ca-INFO/repository/src/main/AndroidManifest.xml

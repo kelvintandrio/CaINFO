@@ -2,6 +2,7 @@ plugins {
     id("com.android.application")
     kotlin("android")
     kotlin("android.extensions")
+    kotlin("kapt")
 }
 
 android {
@@ -31,7 +32,7 @@ dependencies {
     implementation(Dependencies.SupportLibrary.coreKtx)
     implementation(Dependencies.SupportLibrary.legacySupport)
     implementation(Dependencies.SupportLibrary.lifecycleLibrary)
-    implementation(Dependencies.SupportLibrary.lifecycleCompiler)
+    kapt(Dependencies.SupportLibrary.lifecycleCompiler)
     implementation(Dependencies.SupportLibrary.recyclerView)
     implementation(Dependencies.SupportLibrary.materialSupport)
 

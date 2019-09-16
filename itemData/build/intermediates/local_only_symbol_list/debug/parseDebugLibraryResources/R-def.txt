@@ -1,3 +1,9 @@
 R_DEF: Internal format may change without notice
 local
+drawable sample_poster_movie
+id imgPosterMovie
+id tvReleaseDateMovie
+id tvTitleMovie
 layout item_data_movie
+string date
+string title
