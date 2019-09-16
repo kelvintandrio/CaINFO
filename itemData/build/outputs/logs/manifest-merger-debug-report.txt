@@ -5,8 +5,12 @@ INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Project Android/Ca-INFO/itemDa
 INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Project Android/Ca-INFO/itemData/src/main/AndroidManifest.xml:1:1-57
 INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Project Android/Ca-INFO/itemData/src/main/AndroidManifest.xml:1:1-57
 INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Project Android/Ca-INFO/itemData/src/main/AndroidManifest.xml:1:1-57
+INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Project Android/Ca-INFO/itemData/src/main/AndroidManifest.xml:1:1-57
+INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Project Android/Ca-INFO/itemData/src/main/AndroidManifest.xml:1:1-57
 	package
 		ADDED from /Users/mbp/Kelvin/ProjectKU/Android/Project Android/Ca-INFO/itemData/src/main/AndroidManifest.xml:1:11-54
+		INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Project Android/Ca-INFO/itemData/src/main/AndroidManifest.xml
+		INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Project Android/Ca-INFO/itemData/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/mbp/Kelvin/ProjectKU/Android/Project Android/Ca-INFO/itemData/src/main/AndroidManifest.xml
 		ADDED from /Users/mbp/Kelvin/ProjectKU/Android/Project Android/Ca-INFO/itemData/src/main/AndroidManifest.xml:1:1-57

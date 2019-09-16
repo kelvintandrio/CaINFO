@@ -1,0 +1,5 @@
+/Users/mbp/Kelvin/ProjectKU/Android/Project Android/Ca-INFO/itemData/src/main/java/dataItem/adapter/AdapterDataSetup.kt
+/Users/mbp/Kelvin/ProjectKU/Android/Project Android/Ca-INFO/itemData/src/main/java/dataItem/adapter/AdapterData.kt
+/Users/mbp/Kelvin/ProjectKU/Android/Project Android/Ca-INFO/itemData/src/main/java/dataItem/adapter/Binding.kt
+/Users/mbp/Kelvin/ProjectKU/Android/Project Android/Ca-INFO/itemData/src/main/java/dataItem/data/Movie.kt
+/Users/mbp/Kelvin/ProjectKU/Android/Project Android/Ca-INFO/itemData/src/main/java/dataItem/data/TV.kt

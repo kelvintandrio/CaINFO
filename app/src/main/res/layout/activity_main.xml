@@ -5,10 +5,11 @@
     xmlns:tools="http://schemas.android.com/tools"
     style="@style/LayoutWidthHeightTypeOne"
     android:orientation="vertical"
-    tools:context=".MainActivity">
+    tools:context=".view.MainActivity">
 
     <HorizontalScrollView
         style="@style/LayoutWidthHeightTypeTwo"
+        android:scrollbars="none"
         tools:ignore="UselessParent">
 
         <LinearLayout
@@ -167,7 +168,7 @@
         android:id="@+id/pageFragment"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:name="algorithm.kelvin.project.ca_info.MovieFragment"
+        android:name="algorithm.kelvin.project.ca_info.view.MovieFragment"
         tools:layout="@layout/fragment_movie" />
 
 </LinearLayout>

@@ -30,6 +30,10 @@ dependencies {
     implementation(Dependencies.SupportLibrary.constraintLayout)
     implementation(Dependencies.SupportLibrary.coreKtx)
     implementation(Dependencies.SupportLibrary.legacySupport)
+    implementation(Dependencies.SupportLibrary.lifecycleLibrary)
+    implementation(Dependencies.SupportLibrary.lifecycleCompiler)
+    implementation(Dependencies.SupportLibrary.recyclerView)
+    implementation(Dependencies.SupportLibrary.materialSupport)
 
     testImplementation(Dependencies.TestingLibrary.testJunit)
     androidTestImplementation(Dependencies.TestingLibrary.androidTestRunner)

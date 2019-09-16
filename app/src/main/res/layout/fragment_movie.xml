@@ -6,13 +6,12 @@
     android:layout_height="match_parent"
     android:id="@+id/frameMovie"
     android:background="@android:color/holo_blue_light"
-    tools:context=".MovieFragment">
+    tools:context=".view.MovieFragment">
 
-    <!-- TODO: Update blank fragment layout -->
-    <TextView
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rvMovie"
+        android:layout_margin="8dp"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:gravity="center"
-        android:text="@string/hello_blank_fragment" />
+        android:layout_height="match_parent"/>
 
 </FrameLayout>

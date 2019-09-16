@@ -6,6 +6,11 @@ private const val appcompatVersion = "1.0.2"
 private const val coreKtxVersion = "1.0.2"
 private const val constraintLayoutVersion = "1.1.3"
 private const val legacySupportVersion = "1.0.0"
+private const val recyclerViewVersion = "1.0.0"
+private const val materialVersion = "1.0.0"
+private const val pagingVersion = "2.1.0"
+private const val pagingRxJavaVersion = "2.1.0"
+private const val lifecycleVersion = "2.2.0-alpha03"
 
 //test libs
 private const val junitVersion = "4.12"
@@ -34,6 +39,12 @@ object Dependencies {
         const val coreKtx = "androidx.core:core-ktx:${coreKtxVersion}"
         const val constraintLayout = "androidx.constraintlayout:constraintlayout:${constraintLayoutVersion}"
         const val legacySupport = "androidx.legacy:legacy-support-v4:${legacySupportVersion}"
+        const val recyclerView = "androidx.recyclerview:recyclerview:${recyclerViewVersion}"
+        const val materialSupport = "com.google.android.material:material:${materialVersion}"
+        const val pagingLibrary = "androidx.paging:paging-runtime:${pagingVersion}"
+        const val pagingRxJavaLibrary = "androidx.paging:paging-rxjava2:${pagingRxJavaVersion}"
+        const val lifecycleLibrary = "androidx.lifecycle:lifecycle-extensions:${lifecycleVersion}"
+        const val lifecycleCompiler = "androidx.lifecycle:lifecycle-compiler:${lifecycleVersion}"
     }
     object TestingLibrary {
         const val testJunit = "junit:junit:${junitVersion}"
