@@ -164,11 +164,10 @@
 
     </HorizontalScrollView>
 
-    <fragment
-        android:id="@+id/pageFragment"
+    <androidx.viewpager.widget.ViewPager
+        android:id="@+id/main_viewpager"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:name="algorithm.kelvin.project.ca_info.view.MovieFragment"
-        tools:layout="@layout/fragment_movie" />
+        app:layout_behavior="com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior" />
 
 </LinearLayout>

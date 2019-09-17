@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:id="@+id/frameTV"
     android:background="@android:color/holo_blue_dark"
-    tools:context=".TVFragment">
+    tools:context=".view.TVFragment">
 
     <!-- TODO: Update blank fragment layout -->
     <TextView

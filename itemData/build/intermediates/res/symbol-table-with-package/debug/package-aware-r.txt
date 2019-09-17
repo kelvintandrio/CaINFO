@@ -958,7 +958,6 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
-drawable sample_poster_movie
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
 id action_bar
@@ -1017,7 +1016,6 @@ id home
 id icon
 id icon_group
 id image
-id imgPosterMovie
 id info
 id italic
 id item_touch_helper_previous_elevation
@@ -1108,8 +1106,6 @@ id transition_layout_save
 id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
-id tvReleaseDateMovie
-id tvTitleMovie
 id uniform
 id unlabeled
 id up
@@ -1177,7 +1173,6 @@ layout design_navigation_item_subheader
 layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_password_icon
-layout item_data_movie
 layout mtrl_layout_snackbar
 layout mtrl_layout_snackbar_include
 layout notification_action
@@ -1233,7 +1228,6 @@ string appbar_scrolling_view_behavior
 string bottom_sheet_behavior
 string character_counter_content_description
 string character_counter_pattern
-string date
 string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
 string hide_bottom_view_on_scroll_behavior
@@ -1245,7 +1239,6 @@ string path_password_eye_mask_visible
 string path_password_strike_through
 string search_menu_title
 string status_bar_notification_info_overflow
-string title
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style Animation_AppCompat_Dialog

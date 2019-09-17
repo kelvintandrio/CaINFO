@@ -23,4 +23,5 @@ dependencies {
     implementation(Dependencies.SupportLibrary.materialSupport)
     implementation(Dependencies.SupportLibrary.pagingLibrary)
     implementation(Dependencies.SupportLibrary.pagingRxJavaLibrary)
+    implementation(Dependencies.SupportLibrary.retrofitConvertGson)
 }

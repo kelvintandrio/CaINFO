@@ -10,7 +10,11 @@ private const val recyclerViewVersion = "1.0.0"
 private const val materialVersion = "1.0.0"
 private const val pagingVersion = "2.1.0"
 private const val pagingRxJavaVersion = "2.1.0"
-private const val lifecycleVersion = "2.2.0-alpha03"
+private const val lifecycleVersion = "2.2.0-alpha04"
+private const val retrofitVersion = "2.5.0"
+private const val rxAndroidVersion = "2.1.1"
+private const val rxJavaVersion = "2.2.8"
+private const val glideVersion = "4.9.0"
 
 //test libs
 private const val junitVersion = "4.12"
@@ -45,6 +49,12 @@ object Dependencies {
         const val pagingRxJavaLibrary = "androidx.paging:paging-rxjava2:${pagingRxJavaVersion}"
         const val lifecycleLibrary = "androidx.lifecycle:lifecycle-extensions:${lifecycleVersion}"
         const val lifecycleCompiler = "androidx.lifecycle:lifecycle-compiler:${lifecycleVersion}"
+        const val retrofitLibrary = "com.squareup.retrofit2:retrofit:${retrofitVersion}"
+        const val retrofitConvertGson = "com.squareup.retrofit2:converter-gson:${retrofitVersion}"
+        const val retrofitAdapterRxJava = "com.squareup.retrofit2:adapter-rxjava2:${retrofitVersion}"
+        const val rxAndroid = "io.reactivex.rxjava2:rxandroid:${rxAndroidVersion}"
+        const val rxJava = "io.reactivex.rxjava2:rxjava:${rxJavaVersion}"
+        const val glideLibrary = "com.github.bumptech.glide:glide:${glideVersion}"
     }
     object TestingLibrary {
         const val testJunit = "junit:junit:${junitVersion}"

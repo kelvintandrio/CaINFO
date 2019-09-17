@@ -10,4 +10,8 @@
 9        android:targetSdkVersion="28" />
 9-->/Users/mbp/Kelvin/ProjectKU/Android/Project Android/Ca-INFO/repository/src/main/AndroidManifest.xml
 10
-11</manifest>
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/mbp/Kelvin/ProjectKU/Android/Project Android/Ca-INFO/repository/src/main/AndroidManifest.xml:3:5-66
+11-->/Users/mbp/Kelvin/ProjectKU/Android/Project Android/Ca-INFO/repository/src/main/AndroidManifest.xml:3:22-64
+12
+13</manifest>

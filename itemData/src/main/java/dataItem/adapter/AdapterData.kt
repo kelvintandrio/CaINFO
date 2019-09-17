@@ -1,15 +1,13 @@
 package dataItem.adapter
 
-import android.content.Context
-import android.util.Log
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.paging.PagedListAdapter
 import androidx.recyclerview.widget.RecyclerView
 
-class AdapterData<T>(private val layoutItemData: Int, private val context: Context): PagedListAdapter<T, RecyclerView.ViewHolder>(DataDiffUtil()) {
-    private lateinit var setupData: Binding<*>.(view: View, position: Int, item: Any?) -> Unit
+class AdapterData<T>(private val layoutItemData: Int): PagedListAdapter<T, RecyclerView.ViewHolder>(DataDiffUtil()) {
+    private lateinit var setupData: Binding<*>.() -> Unit
     private var itemData: T? = null
 
     private fun getItem() : T? = itemData
@@ -31,7 +29,7 @@ class AdapterData<T>(private val layoutItemData: Int, private val context: Conte
         }
     }
 
-    fun setData(binding: Binding<*>.(view: View, position: Int, item: Any?) -> Unit) {
+    fun setData(binding: Binding<*>.() -> Unit) {
         this.setupData = binding
     }
 
@@ -39,8 +37,8 @@ class AdapterData<T>(private val layoutItemData: Int, private val context: Conte
 
 @Suppress("UNCHECKED_CAST")
 class DataViewHolder(view: View): RecyclerView.ViewHolder(view) {
-    fun<T> setItemListData(setup: Binding<*>.(view: View, position: Int, item: T) -> Unit, item: Any?, position: Int) = itemView.run {
+    fun setItemListData(setup: Binding<*>.() -> Unit, item: Any?, position: Int) = itemView.run {
         val setupData = Binding(this, item, position)
-        setup(setupData, setupData.viewAdapterData, setupData.position, setupData.item as T )
+        setup(setupData)
     }
 }

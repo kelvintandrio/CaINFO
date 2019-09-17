@@ -1,10 +1,12 @@
 package dataItem.data
 
+import com.google.gson.annotations.SerializedName
+
 object Data {
     data class ListCatalog(
-        val id: Int? = null,
-        val title: String? = null,
-        val releaseDate: String? = null,
-        val poster: String? = null
+        @field:SerializedName("id") val id: Int? = null,
+        @field:SerializedName("title") val title: String? = null,
+        @field:SerializedName("release_date") val releaseDate: String? = null,
+        @field:SerializedName("poster_path") val poster: String? = null
     )
 }

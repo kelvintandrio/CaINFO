@@ -1,3 +1,8 @@
 package dataItem.data
 
-data class Movie(val dataMovie: ArrayList<Data.ListCatalog>? = null)
+import com.google.gson.annotations.SerializedName
+
+data class Movie(
+    @field:SerializedName("results")
+    val dataMovie: ArrayList<Data.ListCatalog>? = null
+)

@@ -35,10 +35,14 @@ dependencies {
     kapt(Dependencies.SupportLibrary.lifecycleCompiler)
     implementation(Dependencies.SupportLibrary.recyclerView)
     implementation(Dependencies.SupportLibrary.materialSupport)
+    implementation(Dependencies.SupportLibrary.pagingLibrary)
+    implementation(Dependencies.SupportLibrary.pagingRxJavaLibrary)
+    implementation(Dependencies.SupportLibrary.glideLibrary)
 
     testImplementation(Dependencies.TestingLibrary.testJunit)
     androidTestImplementation(Dependencies.TestingLibrary.androidTestRunner)
     androidTestImplementation(Dependencies.TestingLibrary.androidTestEspresso)
 
     implementation(project(":itemData"))
+    implementation(project(":repository"))
 }
