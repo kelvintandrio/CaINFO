@@ -25,7 +25,15 @@ android {
 dependencies {
     implementation(fileTree(mapOf("dir" to "libs", "include" to listOf("*.jar"))))
     implementation(Dependencies.Kotlin.kotlin_std)
+
     implementation(Dependencies.SupportLibrary.legacySupport)
+    implementation(Dependencies.SupportLibrary.lifecycleLibrary)
+    kapt(Dependencies.SupportLibrary.lifecycleCompiler)
+    implementation(Dependencies.SupportLibrary.recyclerView)
+    implementation(Dependencies.SupportLibrary.materialSupport)
+    implementation(Dependencies.SupportLibrary.pagingLibrary)
+    implementation(Dependencies.SupportLibrary.pagingRxJavaLibrary)
+    implementation(Dependencies.SupportLibrary.glideLibrary)
 
     implementation(project(":itemData"))
     implementation(project(":repository"))

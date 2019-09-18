@@ -1,4 +1,4 @@
-package algorithm.kelvin.project.ca_info.viewmodel
+package algorithm.kelvin.project.movieApps.viewmodel
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.ViewModel
@@ -7,7 +7,7 @@ import api.movie.ApiRepository
 import dataItem.data.Data
 import io.reactivex.disposables.CompositeDisposable
 
-class MovieViewModel(private val movieRepository: ApiRepository, private val compositeDisposable: CompositeDisposable): ViewModel() {
+class NowPlayingViewModel(private val movieRepository: ApiRepository, private val compositeDisposable: CompositeDisposable): ViewModel() {
     fun getDataMovie(type: String): LiveData<PagedList<Data.ListCatalog>> = movieRepository.getMovie(compositeDisposable, type)
 
     override fun onCleared() {
