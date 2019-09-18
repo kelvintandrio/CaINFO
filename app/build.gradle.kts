@@ -45,4 +45,5 @@ dependencies {
 
     implementation(project(":itemData"))
     implementation(project(":repository"))
+    implementation(project(":movieApps"))
 }

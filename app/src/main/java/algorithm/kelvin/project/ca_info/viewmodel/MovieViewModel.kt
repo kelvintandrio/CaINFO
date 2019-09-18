@@ -9,4 +9,9 @@ import io.reactivex.disposables.CompositeDisposable
 
 class MovieViewModel(private val movieRepository: ApiRepository, private val compositeDisposable: CompositeDisposable): ViewModel() {
     fun getDataMovie(type: String): LiveData<PagedList<Data.ListCatalog>> = movieRepository.getMovie(compositeDisposable, type)
+
+    override fun onCleared() {
+        super.onCleared()
+        compositeDisposable.dispose()
+    }
 }

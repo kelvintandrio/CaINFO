@@ -1,14 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     style="@style/LayoutWidthHeightTypeOne"
     android:id="@+id/frameMovie"
     android:background="@color/colorBackgroundMovie"
     tools:context=".view.MovieFragment">
 
-    <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/rvMovie"
-        style="@style/LayoutWidthHeightTypeOne"
-        android:layout_margin="8dp" />
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <HorizontalScrollView
+            android:scrollbars="none"
+            style="@style/LayoutWidthHeightTypeTwo">
+
+            <LinearLayout
+                android:layout_marginTop="8dp"
+                android:orientation="horizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/tvNowPlaying"
+                    style="@style/StyleTabChildItem"
+                    android:text="@string/now_playing"/>
+
+                <TextView
+                    android:id="@+id/tvPopular"
+                    style="@style/StyleTabChildItem"
+                    android:text="@string/popular"/>
+
+                <TextView
+                    android:id="@+id/tvUpComing"
+                    style="@style/StyleTabChildItem"
+                    android:text="@string/up_coming"/>
+
+                <TextView
+                    android:id="@+id/tvTopRelated"
+                    style="@style/StyleTabChildItem"
+                    android:text="@string/top_related"/>
+
+            </LinearLayout>
+
+        </HorizontalScrollView>
+
+        <androidx.viewpager.widget.ViewPager
+            android:id="@+id/movie_viewpager"
+            android:layout_marginTop="8dp"
+            style="@style/LayoutWidthHeightTypeOne"
+            app:layout_behavior="com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior" />
+
+    </LinearLayout>
 
 </FrameLayout>
