@@ -2,15 +2,16 @@
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/colorWhite"
     android:orientation="horizontal"
     android:layout_margin="8dp"
-    android:layout_width="match_parent"
-    android:layout_height="wrap_content">
+    style="@style/LayoutWidthHeightTypeTwo">
 
     <ImageView
         android:id="@+id/imgPosterMovie"
         android:layout_width="100dp"
         android:layout_height="150dp"
+        android:layout_margin="8dp"
         android:src="@drawable/sample_poster_movie"
         tools:ignore="ContentDescription" />
 
@@ -25,6 +26,7 @@
             android:id="@+id/tvTitleMovie"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
             android:text="@string/title"
             android:textColor="@android:color/black"
             android:textStyle="bold"

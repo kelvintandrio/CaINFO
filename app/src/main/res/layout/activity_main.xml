@@ -9,6 +9,7 @@
 
     <HorizontalScrollView
         style="@style/LayoutWidthHeightTypeTwo"
+        android:background="@android:color/white"
         android:scrollbars="none"
         tools:ignore="UselessParent">
 
@@ -17,23 +18,22 @@
             android:orientation="horizontal">
 
             <androidx.constraintlayout.widget.ConstraintLayout
-                style="@style/LayoutTab">
+                android:id="@+id/tabMovie"
+                style="@style/LayoutTab"
+                android:background="#DBD8D8">
 
                 <ImageView
                     android:id="@+id/imageMovie"
-                    android:src="@drawable/icon_movie"
                     style="@style/LayoutTabIcon"
+                    android:src="@drawable/icon_movie"
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toTopOf="parent"
                     tools:ignore="ContentDescription" />
 
                 <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
                     android:text="@string/movie"
-                    android:textColor="@android:color/black"
-                    android:textSize="16sp"
+                    style="@style/StyleTextTabItem"
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toBottomOf="@+id/imageMovie" />
@@ -41,23 +41,21 @@
             </androidx.constraintlayout.widget.ConstraintLayout>
 
             <androidx.constraintlayout.widget.ConstraintLayout
+                android:id="@+id/tabTV"
                 style="@style/LayoutTab">
 
                 <ImageView
                     android:id="@+id/imageTV"
-                    android:src="@drawable/icon_tv"
                     style="@style/LayoutTabIcon"
+                    android:src="@drawable/icon_tv"
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toTopOf="parent"
                     tools:ignore="ContentDescription" />
 
                 <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
                     android:text="@string/tv_show"
-                    android:textColor="@android:color/black"
-                    android:textSize="16sp"
+                    style="@style/StyleTextTabItem"
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toBottomOf="@+id/imageTV" />
@@ -77,11 +75,8 @@
                     tools:ignore="ContentDescription" />
 
                 <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
                     android:text="@string/food"
-                    android:textColor="@android:color/black"
-                    android:textSize="16sp"
+                    style="@style/StyleTextTabItem"
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toBottomOf="@+id/imageFood" />
@@ -101,11 +96,8 @@
                     tools:ignore="ContentDescription" />
 
                 <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
                     android:text="@string/sports"
-                    android:textColor="@android:color/black"
-                    android:textSize="16sp"
+                    style="@style/StyleTextTabItem"
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toBottomOf="@+id/imageSports" />
@@ -125,11 +117,8 @@
                     tools:ignore="ContentDescription" />
 
                 <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
                     android:text="@string/weather"
-                    android:textColor="@android:color/black"
-                    android:textSize="16sp"
+                    style="@style/StyleTextTabItem"
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toBottomOf="@+id/imageWeather" />
@@ -149,11 +138,8 @@
                     tools:ignore="ContentDescription" />
 
                 <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
                     android:text="@string/video"
-                    android:textColor="@android:color/black"
-                    android:textSize="16sp"
+                    style="@style/StyleTextTabItem"
                     app:layout_constraintEnd_toEndOf="parent"
                     app:layout_constraintStart_toStartOf="parent"
                     app:layout_constraintTop_toBottomOf="@+id/imageVideo" />
@@ -166,8 +152,7 @@
 
     <androidx.viewpager.widget.ViewPager
         android:id="@+id/main_viewpager"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        style="@style/LayoutWidthHeightTypeOne"
         app:layout_behavior="com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior" />
 
 </LinearLayout>
