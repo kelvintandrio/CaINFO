@@ -2,5 +2,5 @@
 .gradle
 /local.properties
 /.idea/caches
-/.idea/workspaces.xml
+/.idea/workspace.xml
 /build
