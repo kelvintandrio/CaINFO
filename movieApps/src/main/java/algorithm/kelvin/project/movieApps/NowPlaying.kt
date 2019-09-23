@@ -35,8 +35,6 @@ class NowPlaying : Fragment() {
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
 
-        Log.i("FragmentMasuk", "Ini Fragment Movie Now Playing")
-
         rvNowPlaying.setupAdapterData<Data.ListCatalog>(R.layout.item_data_movie, requireContext()) {
             data {
                 Glide.with(context).load("${BuildConfig.URL_IMAGE}${item?.poster}").into(viewAdapterData.imgPosterMovie)
