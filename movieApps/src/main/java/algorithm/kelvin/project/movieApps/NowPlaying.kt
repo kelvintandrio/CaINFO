@@ -2,8 +2,9 @@
 package algorithm.kelvin.project.movieApps
 
 import algorithm.kelvin.project.movieApps.viewmodel.NowPlayingViewModel
-import algorithm.kelvin.project.movieApps.vmfactory.NowPlayingVMFactory
+import algorithm.kelvin.project.movieApps.vmfactory.MovieVMFactory
 import android.os.Bundle
+import android.util.Log
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
@@ -20,9 +21,11 @@ import kotlinx.android.synthetic.main.fragment_now_playing.*
 import kotlinx.android.synthetic.main.item_data_movie.view.*
 
 class NowPlaying : Fragment() {
+    private val context = this
     private val nowPlayingViewModel by lazy {
         ViewModelProviders.of(this,
-            NowPlayingVMFactory(movieRepository = ApiRepository(), compositeDisposable = CompositeDisposable())).get(NowPlayingViewModel::class.java)
+            MovieVMFactory(movieRepository = ApiRepository(), compositeDisposable = CompositeDisposable(), type = "now playing"))
+            .get(NowPlayingViewModel::class.java)
     }
 
     override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View? {
@@ -32,16 +35,15 @@ class NowPlaying : Fragment() {
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
 
-        rvMovie.setupAdapterData<Data.ListCatalog>(R.layout.item_data_movie) {
+        Log.i("FragmentMasuk", "Ini Fragment Movie Now Playing")
+
+        rvNowPlaying.setupAdapterData<Data.ListCatalog>(R.layout.item_data_movie, requireContext()) {
             data {
-                Glide.with(requireContext()).load("${BuildConfig.URL_IMAGE}${item?.poster}").into(viewAdapterData.imgPosterMovie)
+                Glide.with(context).load("${BuildConfig.URL_IMAGE}${item?.poster}").into(viewAdapterData.imgPosterMovie)
                 viewAdapterData.tvTitleMovie.text = item?.title
                 viewAdapterData.tvReleaseDateMovie.text = item?.releaseDate
-                viewAdapterData.setOnClickListener {
-                    Toast.makeText(requireContext(), "You choose ${item?.title}", Toast.LENGTH_SHORT).show()
-                }
             }
-            nowPlayingViewModel.getDataMovie("now playing").observe(requireActivity(), Observer {
+            nowPlayingViewModel.getDataMovie("now playing").observe(context, Observer {
                 setData(it)
             })
             setLayoutManager(linearLayoutManager(), 0)

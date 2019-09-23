@@ -12,7 +12,6 @@
         android:layout_width="100dp"
         android:layout_height="150dp"
         android:layout_margin="8dp"
-        android:src="@drawable/sample_poster_movie"
         tools:ignore="ContentDescription" />
 
     <LinearLayout

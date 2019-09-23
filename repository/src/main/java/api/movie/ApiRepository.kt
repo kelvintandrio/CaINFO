@@ -13,6 +13,9 @@ class ApiRepository: ApiInterface {
     override fun getMovie(compositeDisposable: CompositeDisposable, type: String): LiveData<PagedList<Data.ListCatalog>> =
         when(type) {
             "now playing" -> LivePagedListBuilder(DsfMovie(compositeDisposable, apiService.getDataMovieNowPlaying(), 0), 5).build()
+            "top related" -> LivePagedListBuilder(DsfMovie(compositeDisposable, apiService.getDataMovieTopRelated(), 0), 5).build()
+            "up coming" -> LivePagedListBuilder(DsfMovie(compositeDisposable, apiService.getDataMovieUpcoming(), 0), 5).build()
+            "popular" -> LivePagedListBuilder(DsfMovie(compositeDisposable, apiService.getDataMoviePopular(), 0), 5).build()
             else -> LivePagedListBuilder(DsfMovie(compositeDisposable, apiService.getDataMovieNowPlaying(), 0), 5).build()
         }
 }

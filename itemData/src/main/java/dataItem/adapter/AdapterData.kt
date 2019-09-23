@@ -1,19 +1,20 @@
 package dataItem.adapter
 
+import android.content.Context
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.paging.PagedListAdapter
 import androidx.recyclerview.widget.RecyclerView
 
-class AdapterData<T>(private val layoutItemData: Int): PagedListAdapter<T, RecyclerView.ViewHolder>(DataDiffUtil()) {
+class AdapterData<T>(private val layoutItemData: Int, private val context: Context): PagedListAdapter<T, RecyclerView.ViewHolder>(DataDiffUtil()) {
     private lateinit var setupData: Binding<*>.() -> Unit
     private var itemData: T? = null
 
     private fun getItem() : T? = itemData
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): RecyclerView.ViewHolder {
-        return DataViewHolder(LayoutInflater.from(parent.context).inflate(layoutItemData, parent, false))
+        return DataViewHolder(LayoutInflater.from(context).inflate(layoutItemData, parent, false))
     }
 
     override fun onBindViewHolder(holder: RecyclerView.ViewHolder, position: Int) {

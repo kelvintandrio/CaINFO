@@ -3,10 +3,11 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@android:color/holo_green_light"
     tools:context=".NowPlaying">
 
     <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/rvMovie"
+        android:id="@+id/rvNowPlaying"
         style="@style/LayoutWidthHeightTypeOne"
         android:layout_margin="8dp" />
 

@@ -4,7 +4,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     style="@style/LayoutWidthHeightTypeOne"
     android:id="@+id/frameMovie"
-    android:background="@color/colorBackgroundMovie"
+    android:background="@drawable/bg_movie"
     tools:context=".view.MovieFragment">
 
     <LinearLayout

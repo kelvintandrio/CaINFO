@@ -1103,7 +1103,10 @@ id radio
 id right
 id right_icon
 id right_side
-id rvMovie
+id rvNowPlaying
+id rvPopular
+id rvRelated
+id rvUpComing
 id save_image_matrix
 id save_non_transition_alpha
 id save_scale_type
@@ -1239,7 +1242,9 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_password_icon
 layout fragment_now_playing
+layout fragment_popular
 layout fragment_related
+layout fragment_upcoming
 layout item_data_movie
 layout mtrl_layout_snackbar
 layout mtrl_layout_snackbar_include
