@@ -7,7 +7,6 @@
 
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/rvNowPlaying"
-        tools:listitem="@layout/item_data_movie"
         style="@style/LayoutWidthHeightTypeOne"
         android:layout_margin="8dp" />
 
