@@ -70,6 +70,9 @@ class DsTv(private val compositeDisposable: CompositeDisposable,
 
     private fun setObservableTv(type: String, page: Int) = when(type) {
         "airing today" -> apiService.getDataTvAiringToday(page)
+        "popular" -> apiService.getDataTvPopular(page)
+        "on the air" -> apiService.getDataTvOnTheAir(page)
+        "top rated" -> apiService.getDataTvTopRated(page)
         else -> apiService.getDataTvAiringToday(page)
     }
 }
