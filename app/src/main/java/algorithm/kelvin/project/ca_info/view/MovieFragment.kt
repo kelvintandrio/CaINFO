@@ -2,8 +2,7 @@
 package algorithm.kelvin.project.ca_info.view
 
 import algorithm.kelvin.project.ca_info.R
-import algorithm.kelvin.project.movieApps.NowPlaying
-import algorithm.kelvin.project.movieApps.Related
+import algorithm.kelvin.project.movieApps.*
 import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
@@ -20,7 +19,7 @@ class MovieFragment : Fragment() {
         super.onViewCreated(view, savedInstanceState)
 
         val moviePageAdapter = MainPageAdapter(requireFragmentManager())
-        moviePageAdapter.addPageMenu(NowPlaying(), Related())
+        moviePageAdapter.addPageMenu(NowPlaying(), Popular(), Upcoming(), TopRelated())
         movie_viewpager.adapter = moviePageAdapter
 
     }
