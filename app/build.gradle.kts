@@ -37,4 +37,5 @@ dependencies {
     androidTestImplementation(Dependencies.TestingLibrary.androidTestEspresso)
 
     implementation(project(":movieApps"))
+    implementation(project(":tvApps"))
 }

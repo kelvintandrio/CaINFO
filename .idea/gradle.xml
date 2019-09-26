@@ -13,6 +13,7 @@
             <option value="$PROJECT_DIR$/itemData" />
             <option value="$PROJECT_DIR$/movieApps" />
             <option value="$PROJECT_DIR$/repository" />
+            <option value="$PROJECT_DIR$/tvApps" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

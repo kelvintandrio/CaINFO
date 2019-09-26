@@ -11,68 +11,61 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="87d1e842-8d00-460c-be1e-0e74a0f24029" name="Default Changelist" comment="Success make Modularization">
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/bg_movie.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movieApps/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movieApps/build/intermediates/packaged_res/debug/drawable/bg_item_movie.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movieApps/build/intermediates/packaged_res/debug/drawable/sample_poster_movie.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movieApps/build/intermediates/packaged_res/debug/layout/fragment_popular.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movieApps/build/intermediates/packaged_res/debug/layout/fragment_upcoming.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movieApps/build/tmp/kapt3/incrementalData/debug/algorithm/kelvin/project/movieApps/Popular.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movieApps/build/tmp/kapt3/incrementalData/debug/algorithm/kelvin/project/movieApps/TopRelated.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movieApps/build/tmp/kapt3/incrementalData/debug/algorithm/kelvin/project/movieApps/Upcoming.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movieApps/build/tmp/kapt3/incrementalData/debug/algorithm/kelvin/project/movieApps/viewmodel/PopularViewModel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movieApps/build/tmp/kapt3/incrementalData/debug/algorithm/kelvin/project/movieApps/viewmodel/TopRelatedViewModel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movieApps/build/tmp/kapt3/incrementalData/debug/algorithm/kelvin/project/movieApps/viewmodel/UpcomingViewModel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movieApps/build/tmp/kapt3/incrementalData/debug/algorithm/kelvin/project/movieApps/vmfactory/MovieVMFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movieApps/build/tmp/kapt3/stubs/debug/algorithm/kelvin/project/movieApps/Popular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movieApps/build/tmp/kapt3/stubs/debug/algorithm/kelvin/project/movieApps/Popular.kapt_metadata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movieApps/build/tmp/kapt3/stubs/debug/algorithm/kelvin/project/movieApps/TopRelated.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movieApps/build/tmp/kapt3/stubs/debug/algorithm/kelvin/project/movieApps/TopRelated.kapt_metadata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movieApps/build/tmp/kapt3/stubs/debug/algorithm/kelvin/project/movieApps/Upcoming.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movieApps/build/tmp/kapt3/stubs/debug/algorithm/kelvin/project/movieApps/Upcoming.kapt_metadata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movieApps/build/tmp/kapt3/stubs/debug/algorithm/kelvin/project/movieApps/viewmodel/PopularViewModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movieApps/build/tmp/kapt3/stubs/debug/algorithm/kelvin/project/movieApps/viewmodel/PopularViewModel.kapt_metadata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movieApps/build/tmp/kapt3/stubs/debug/algorithm/kelvin/project/movieApps/viewmodel/TopRelatedViewModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movieApps/build/tmp/kapt3/stubs/debug/algorithm/kelvin/project/movieApps/viewmodel/TopRelatedViewModel.kapt_metadata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movieApps/build/tmp/kapt3/stubs/debug/algorithm/kelvin/project/movieApps/viewmodel/UpcomingViewModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movieApps/build/tmp/kapt3/stubs/debug/algorithm/kelvin/project/movieApps/viewmodel/UpcomingViewModel.kapt_metadata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movieApps/build/tmp/kapt3/stubs/debug/algorithm/kelvin/project/movieApps/vmfactory/MovieVMFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movieApps/build/tmp/kapt3/stubs/debug/algorithm/kelvin/project/movieApps/vmfactory/MovieVMFactory.kapt_metadata" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movieApps/build/tmp/kotlin-classes/debug/algorithm/kelvin/project/movieApps/Popular$onViewCreated$1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movieApps/build/tmp/kotlin-classes/debug/algorithm/kelvin/project/movieApps/Popular$onViewCreated$1$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movieApps/build/tmp/kotlin-classes/debug/algorithm/kelvin/project/movieApps/Popular$onViewCreated$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movieApps/build/tmp/kotlin-classes/debug/algorithm/kelvin/project/movieApps/Popular$popularViewModel$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movieApps/build/tmp/kotlin-classes/debug/algorithm/kelvin/project/movieApps/Popular.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movieApps/build/tmp/kotlin-classes/debug/algorithm/kelvin/project/movieApps/TopRelated$onViewCreated$1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movieApps/build/tmp/kotlin-classes/debug/algorithm/kelvin/project/movieApps/TopRelated$onViewCreated$1$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movieApps/build/tmp/kotlin-classes/debug/algorithm/kelvin/project/movieApps/TopRelated$onViewCreated$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movieApps/build/tmp/kotlin-classes/debug/algorithm/kelvin/project/movieApps/TopRelated$topRelatedViewModel$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movieApps/build/tmp/kotlin-classes/debug/algorithm/kelvin/project/movieApps/TopRelated.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movieApps/build/tmp/kotlin-classes/debug/algorithm/kelvin/project/movieApps/Upcoming$onViewCreated$1$1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movieApps/build/tmp/kotlin-classes/debug/algorithm/kelvin/project/movieApps/Upcoming$onViewCreated$1$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movieApps/build/tmp/kotlin-classes/debug/algorithm/kelvin/project/movieApps/Upcoming$onViewCreated$1$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movieApps/build/tmp/kotlin-classes/debug/algorithm/kelvin/project/movieApps/Upcoming$onViewCreated$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movieApps/build/tmp/kotlin-classes/debug/algorithm/kelvin/project/movieApps/Upcoming$upcomingViewModel$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movieApps/build/tmp/kotlin-classes/debug/algorithm/kelvin/project/movieApps/Upcoming.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movieApps/build/tmp/kotlin-classes/debug/algorithm/kelvin/project/movieApps/viewmodel/PopularViewModel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movieApps/build/tmp/kotlin-classes/debug/algorithm/kelvin/project/movieApps/viewmodel/TopRelatedViewModel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movieApps/build/tmp/kotlin-classes/debug/algorithm/kelvin/project/movieApps/viewmodel/UpcomingViewModel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movieApps/build/tmp/kotlin-classes/debug/algorithm/kelvin/project/movieApps/vmfactory/MovieVMFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movieApps/src/main/java/algorithm/kelvin/project/movieApps/Popular.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movieApps/src/main/java/algorithm/kelvin/project/movieApps/TopRelated.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movieApps/src/main/java/algorithm/kelvin/project/movieApps/Upcoming.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movieApps/src/main/java/algorithm/kelvin/project/movieApps/viewmodel/NowPlayingViewModel.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movieApps/src/main/java/algorithm/kelvin/project/movieApps/viewmodel/PopularViewModel.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movieApps/src/main/java/algorithm/kelvin/project/movieApps/viewmodel/TopRelatedViewModel.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movieApps/src/main/java/algorithm/kelvin/project/movieApps/viewmodel/UpcomingViewModel.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movieApps/src/main/java/algorithm/kelvin/project/movieApps/vmfactory/MovieVMFactory.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movieApps/src/main/res/drawable/bg_item_movie.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movieApps/src/main/res/drawable/sample_poster_movie.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movieApps/src/main/res/layout/fragment_popular.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/movieApps/src/main/res/layout/fragment_upcoming.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/build/tmp/kotlin-classes/debug/api/datasource/ds/DsMovie$loadAfter$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/build/tmp/kotlin-classes/debug/api/datasource/ds/DsMovie$loadAfter$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/repository/build/tmp/kotlin-classes/debug/api/datasource/ds/DsMovie$loadAfter$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itemData/build/tmp/kotlin-classes/debug/dataItem/data/Data$ListCatalogTV.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repository/build/tmp/kapt3/incrementalData/debug/api/datasource/ds/DsTv.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repository/build/tmp/kapt3/incrementalData/debug/api/datasource/factory/DsfTv.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repository/build/tmp/kapt3/incrementalData/debug/api/tv/ApiInterfaceTv.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repository/build/tmp/kapt3/incrementalData/debug/api/tv/ApiRepositoryTv.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repository/build/tmp/kapt3/incrementalData/debug/api/tv/RestApiTv.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repository/build/tmp/kapt3/stubs/debug/api/datasource/ds/DsTv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repository/build/tmp/kapt3/stubs/debug/api/datasource/ds/DsTv.kapt_metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repository/build/tmp/kapt3/stubs/debug/api/datasource/factory/DsfTv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repository/build/tmp/kapt3/stubs/debug/api/datasource/factory/DsfTv.kapt_metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repository/build/tmp/kapt3/stubs/debug/api/tv/ApiInterfaceTv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repository/build/tmp/kapt3/stubs/debug/api/tv/ApiInterfaceTv.kapt_metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repository/build/tmp/kapt3/stubs/debug/api/tv/ApiRepositoryTv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repository/build/tmp/kapt3/stubs/debug/api/tv/ApiRepositoryTv.kapt_metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repository/build/tmp/kapt3/stubs/debug/api/tv/RestApiTv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repository/build/tmp/kapt3/stubs/debug/api/tv/RestApiTv.kapt_metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repository/build/tmp/kotlin-classes/debug/api/datasource/ds/DsTv$loadAfter$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repository/build/tmp/kotlin-classes/debug/api/datasource/ds/DsTv$loadAfter$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repository/build/tmp/kotlin-classes/debug/api/datasource/ds/DsTv$loadAfter$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repository/build/tmp/kotlin-classes/debug/api/datasource/ds/DsTv$loadInitial$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repository/build/tmp/kotlin-classes/debug/api/datasource/ds/DsTv$loadInitial$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repository/build/tmp/kotlin-classes/debug/api/datasource/ds/DsTv$loadInitial$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repository/build/tmp/kotlin-classes/debug/api/datasource/ds/DsTv.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repository/build/tmp/kotlin-classes/debug/api/datasource/factory/DsfTv.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repository/build/tmp/kotlin-classes/debug/api/tv/ApiInterfaceTv.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repository/build/tmp/kotlin-classes/debug/api/tv/ApiRepositoryTv.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repository/build/tmp/kotlin-classes/debug/api/tv/RestApiTv.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repository/src/main/java/api/datasource/ds/DsTv.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repository/src/main/java/api/datasource/factory/DsfTv.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repository/src/main/java/api/tv/ApiInterfaceTv.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repository/src/main/java/api/tv/ApiRepositoryTv.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/repository/src/main/java/api/tv/RestApiTv.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tvApps/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tvApps/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tvApps/consumer-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tvApps/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tvApps/src/androidTest/java/algorithm/kelvin/tvApps/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tvApps/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tvApps/src/main/java/algorithm/kelvin/tvApps/AiringToday.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tvApps/src/main/java/algorithm/kelvin/tvApps/OnTheAir.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tvApps/src/main/java/algorithm/kelvin/tvApps/Popular.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tvApps/src/main/java/algorithm/kelvin/tvApps/TopRated.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tvApps/src/main/java/algorithm/kelvin/tvApps/viewmodel/AiringTodayViewModel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tvApps/src/main/java/algorithm/kelvin/tvApps/viewmodel/OnTheAirViewModel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tvApps/src/main/java/algorithm/kelvin/tvApps/viewmodel/PopularViewModel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tvApps/src/main/java/algorithm/kelvin/tvApps/viewmodel/TopRatedViewModel.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tvApps/src/main/java/algorithm/kelvin/tvApps/viewmodelfactory/TvVMFactory.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tvApps/src/main/res/drawable/bg_item_tv.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tvApps/src/main/res/layout/fragment_airing_today.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tvApps/src/main/res/layout/fragment_on_the_air.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tvApps/src/main/res/layout/fragment_popular.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tvApps/src/main/res/layout/fragment_top_rated.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tvApps/src/main/res/layout/item_data_tv.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tvApps/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tvApps/src/test/java/algorithm/kelvin/tvApps/ExampleUnitTest.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" afterDir="false" />
@@ -85,17 +78,14 @@
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_annotation_annotation_1_0_2_jar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_1_0_2_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/algorithm/kelvin/project/ca_info/view/MovieFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/algorithm/kelvin/project/ca_info/view/MovieFragment.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_movie.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_movie.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/item_data_movie.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/algorithm/kelvin/project/ca_info/view/TVFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/algorithm/kelvin/project/ca_info/view/TVFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_tv.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_tv.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/buildSrc/.gradle/5.4.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/buildSrc/.gradle/5.4.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/buildSrc/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/buildSrc/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/buildSrc/buildSrc.iml" beforeDir="false" afterPath="$PROJECT_DIR$/buildSrc/buildSrc.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/itemData/build/.transforms/f90e219e1d4a72d9796a81a7f8a84751/full/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/itemData/build/.transforms/f90e219e1d4a72d9796a81a7f8a84751/full/classes.dex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/itemData/build/intermediates/compile_library_classes/debug/classes.jar" beforeDir="false" afterPath="$PROJECT_DIR$/itemData/build/intermediates/compile_library_classes/debug/classes.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/itemData/build/intermediates/compile_only_not_namespaced_r_class_jar/debug/R.jar" beforeDir="false" afterPath="$PROJECT_DIR$/itemData/build/intermediates/compile_only_not_namespaced_r_class_jar/debug/R.jar" afterDir="false" />
@@ -105,8 +95,37 @@
       <change beforePath="$PROJECT_DIR$/itemData/build/intermediates/packaged-classes/debug/classes.jar" beforeDir="false" afterPath="$PROJECT_DIR$/itemData/build/intermediates/packaged-classes/debug/classes.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/itemData/build/intermediates/runtime_library_classes/debug/classes.jar" beforeDir="false" afterPath="$PROJECT_DIR$/itemData/build/intermediates/runtime_library_classes/debug/classes.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/build-history.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/inputs/source-to-output.tab" beforeDir="false" afterPath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/inputs/source-to-output.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/inputs/source-to-output.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/inputs/source-to-output.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab" beforeDir="false" afterPath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.len" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab_i" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/lookups/counters.tab" beforeDir="false" afterPath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/lookups/counters.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/lookups/file-to-id.tab" beforeDir="false" afterPath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/lookups/file-to-id.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/lookups/file-to-id.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/lookups/file-to-id.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab" beforeDir="false" afterPath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab" beforeDir="false" afterPath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab.keystream" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab.keystream.len" afterDir="false" />
@@ -115,139 +134,44 @@
       <change beforePath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/itemData/build/kotlin/compileDebugKotlin/last-build.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/itemData/build/outputs/aar/itemData-debug.aar" beforeDir="false" afterPath="$PROJECT_DIR$/itemData/build/outputs/aar/itemData-debug.aar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itemData/build/tmp/kotlin-classes/debug/dataItem/adapter/AdapterData.class" beforeDir="false" afterPath="$PROJECT_DIR$/itemData/build/tmp/kotlin-classes/debug/dataItem/adapter/AdapterData.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itemData/build/tmp/kotlin-classes/debug/dataItem/adapter/AdapterDataSetup.class" beforeDir="false" afterPath="$PROJECT_DIR$/itemData/build/tmp/kotlin-classes/debug/dataItem/adapter/AdapterDataSetup.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itemData/build/tmp/kotlin-classes/debug/dataItem/adapter/AdapterDataSetupKt.class" beforeDir="false" afterPath="$PROJECT_DIR$/itemData/build/tmp/kotlin-classes/debug/dataItem/adapter/AdapterDataSetupKt.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itemData/build/tmp/kotlin-classes/debug/dataItem/adapter/DataViewHolder.class" beforeDir="false" afterPath="$PROJECT_DIR$/itemData/build/tmp/kotlin-classes/debug/dataItem/adapter/DataViewHolder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itemData/itemData.iml" beforeDir="false" afterPath="$PROJECT_DIR$/itemData/itemData.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itemData/src/main/java/dataItem/adapter/AdapterData.kt" beforeDir="false" afterPath="$PROJECT_DIR$/itemData/src/main/java/dataItem/adapter/AdapterData.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itemData/src/main/java/dataItem/adapter/AdapterDataSetup.kt" beforeDir="false" afterPath="$PROJECT_DIR$/itemData/src/main/java/dataItem/adapter/AdapterDataSetup.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/.transforms/26a9472f328b52a648899d6d6a8ead40/full/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/.transforms/26a9472f328b52a648899d6d6a8ead40/full/classes.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/intermediates/annotations_typedef_file/debug/extractDebugAnnotations/typedefs.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/intermediates/compile_library_classes/debug/classes.jar" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/intermediates/compile_library_classes/debug/classes.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itemData/build/tmp/kotlin-classes/debug/dataItem/data/Data.class" beforeDir="false" afterPath="$PROJECT_DIR$/itemData/build/tmp/kotlin-classes/debug/dataItem/data/Data.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itemData/build/tmp/kotlin-classes/debug/dataItem/data/TV.class" beforeDir="false" afterPath="$PROJECT_DIR$/itemData/build/tmp/kotlin-classes/debug/dataItem/data/TV.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itemData/src/main/java/dataItem/data/Data.kt" beforeDir="false" afterPath="$PROJECT_DIR$/itemData/src/main/java/dataItem/data/Data.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itemData/src/main/java/dataItem/data/TV.kt" beforeDir="false" afterPath="$PROJECT_DIR$/itemData/src/main/java/dataItem/data/TV.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movieApps/build/intermediates/compile_only_not_namespaced_r_class_jar/debug/R.jar" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/intermediates/compile_only_not_namespaced_r_class_jar/debug/R.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/intermediates/full_jar/debug/createFullJarDebug/full.jar" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/intermediates/full_jar/debug/createFullJarDebug/full.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/intermediates/incremental/debug-mergeJavaRes/merge-state" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/movieApps/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/intermediates/incremental/packageDebugResources/merged.dir/values/values.xml" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/intermediates/incremental/packageDebugResources/merged.dir/values/values.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/intermediates/incremental/packageDebugResources/merger.xml" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/intermediates/incremental/packageDebugResources/merger.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/intermediates/local_only_symbol_list/debug/parseDebugLibraryResources/R-def.txt" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/intermediates/local_only_symbol_list/debug/parseDebugLibraryResources/R-def.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/intermediates/merged_java_res/debug/out.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/intermediates/packaged-classes/debug/classes.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/intermediates/packaged_res/debug/layout/fragment_now_playing.xml" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/intermediates/packaged_res/debug/layout/fragment_now_playing.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/intermediates/packaged_res/debug/layout/fragment_related.xml" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/intermediates/packaged_res/debug/layout/fragment_related.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/intermediates/packaged_res/debug/layout/item_data_movie.xml" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/intermediates/packaged_res/debug/layout/item_data_movie.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/intermediates/packaged_res/debug/values/values.xml" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/intermediates/packaged_res/debug/values/values.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/intermediates/runtime_library_classes/debug/classes.jar" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/intermediates/runtime_library_classes/debug/classes.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/intermediates/symbols/debug/R.txt" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/intermediates/symbols/debug/R.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/build-history.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/inputs/source-to-output.tab" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/inputs/source-to-output.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/inputs/source-to-output.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/inputs/source-to-output.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/inputs/source-to-output.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/inputs/source-to-output.tab.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/inputs/source-to-output.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/inputs/source-to-output.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/inputs/source-to-output.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/inputs/source-to-output.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/lookups/counters.tab" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/lookups/counters.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/lookups/file-to-id.tab" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/lookups/file-to-id.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/lookups/file-to-id.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/lookups/file-to-id.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/lookups/file-to-id.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/lookups/file-to-id.tab.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/lookups/file-to-id.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/lookups/file-to-id.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/lookups/file-to-id.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/lookups/file-to-id.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab_i" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/compileDebugKotlin/last-build.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/build-history.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/inputs/source-to-output.tab" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/inputs/source-to-output.tab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/inputs/source-to-output.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/inputs/source-to-output.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/inputs/source-to-output.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/inputs/source-to-output.tab.len" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/inputs/source-to-output.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/inputs/source-to-output.tab.values.at" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/inputs/source-to-output.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/inputs/source-to-output.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/proto.tab" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/proto.tab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.len" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/proto.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/proto.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.len" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab.keystream" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab.values.at" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab.len" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab.values.at" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/counters.tab" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/counters.tab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/file-to-id.tab" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/file-to-id.tab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/file-to-id.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/file-to-id.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/file-to-id.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/file-to-id.tab.len" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/file-to-id.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/file-to-id.tab.values.at" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/file-to-id.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/file-to-id.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/id-to-file.tab" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/id-to-file.tab" afterDir="false" />
@@ -258,52 +182,33 @@
       <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/id-to-file.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/id-to-file.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/lookups.tab" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/lookups.tab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/lookups.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/lookups.tab.keystream" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/lookups.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/lookups.tab.keystream.len" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/lookups.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/lookups.tab.len" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/lookups.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/lookups.tab.values.at" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/lookups.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/lookups.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/kotlin/kaptGenerateStubsDebugKotlin/last-build.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/outputs/aar/movieApps-debug.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/movieApps/build/tmp/kapt3/incApCache/debug/apt-cache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/tmp/kapt3/incApCache/debug/apt-cache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movieApps/build/tmp/kapt3/incApCache/debug/classpath-structure.bin" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/tmp/kapt3/incApCache/debug/classpath-structure.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/movieApps/build/tmp/kapt3/incApCache/debug/java-cache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/tmp/kapt3/incApCache/debug/java-cache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/tmp/kapt3/incrementalData/debug/algorithm/kelvin/project/movieApps/NowPlaying.class" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/tmp/kapt3/incrementalData/debug/algorithm/kelvin/project/movieApps/NowPlaying.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/tmp/kapt3/incrementalData/debug/algorithm/kelvin/project/movieApps/Related.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/tmp/kapt3/incrementalData/debug/algorithm/kelvin/project/movieApps/vmfactory/NowPlayingVMFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/tmp/kapt3/stubs/debug/algorithm/kelvin/project/movieApps/NowPlaying.java" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/tmp/kapt3/stubs/debug/algorithm/kelvin/project/movieApps/NowPlaying.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/tmp/kapt3/stubs/debug/algorithm/kelvin/project/movieApps/NowPlaying.kapt_metadata" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/tmp/kapt3/stubs/debug/algorithm/kelvin/project/movieApps/NowPlaying.kapt_metadata" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/tmp/kapt3/stubs/debug/algorithm/kelvin/project/movieApps/Related.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/tmp/kapt3/stubs/debug/algorithm/kelvin/project/movieApps/Related.kapt_metadata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/tmp/kapt3/stubs/debug/algorithm/kelvin/project/movieApps/vmfactory/NowPlayingVMFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/tmp/kapt3/stubs/debug/algorithm/kelvin/project/movieApps/vmfactory/NowPlayingVMFactory.kapt_metadata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/tmp/kotlin-classes/debug/algorithm/kelvin/project/movieApps/NowPlaying$nowPlayingViewModel$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/tmp/kotlin-classes/debug/algorithm/kelvin/project/movieApps/NowPlaying$nowPlayingViewModel$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/tmp/kotlin-classes/debug/algorithm/kelvin/project/movieApps/NowPlaying$onViewCreated$1$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/tmp/kotlin-classes/debug/algorithm/kelvin/project/movieApps/TopRelated$onViewCreated$1$1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/tmp/kotlin-classes/debug/algorithm/kelvin/project/movieApps/NowPlaying$onViewCreated$1$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/tmp/kotlin-classes/debug/algorithm/kelvin/project/movieApps/NowPlaying$onViewCreated$1$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/tmp/kotlin-classes/debug/algorithm/kelvin/project/movieApps/NowPlaying$onViewCreated$1$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/tmp/kotlin-classes/debug/algorithm/kelvin/project/movieApps/NowPlaying$onViewCreated$1$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/tmp/kotlin-classes/debug/algorithm/kelvin/project/movieApps/NowPlaying$onViewCreated$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/tmp/kotlin-classes/debug/algorithm/kelvin/project/movieApps/NowPlaying$onViewCreated$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/tmp/kotlin-classes/debug/algorithm/kelvin/project/movieApps/NowPlaying.class" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/build/tmp/kotlin-classes/debug/algorithm/kelvin/project/movieApps/NowPlaying.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/tmp/kotlin-classes/debug/algorithm/kelvin/project/movieApps/Related.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/build/tmp/kotlin-classes/debug/algorithm/kelvin/project/movieApps/vmfactory/NowPlayingVMFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/movieApps.iml" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/movieApps.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/src/main/java/algorithm/kelvin/project/movieApps/NowPlaying.kt" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/src/main/java/algorithm/kelvin/project/movieApps/NowPlaying.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/src/main/res/layout/fragment_now_playing.xml" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/src/main/res/layout/fragment_now_playing.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/src/main/res/layout/fragment_related.xml" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/src/main/res/layout/fragment_related.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/src/main/res/layout/item_data_movie.xml" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/src/main/res/layout/item_data_movie.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/movieApps/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/movieApps/src/main/res/values/strings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repository/build/.transforms/a5b772d6f2025e611d35a37462b79f0e/full/classes.dex" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/.transforms/a5b772d6f2025e611d35a37462b79f0e/full/classes.dex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository/build/intermediates/annotations_typedef_file/debug/extractDebugAnnotations/typedefs.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/repository/build/intermediates/compile_library_classes/debug/classes.jar" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/intermediates/compile_library_classes/debug/classes.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repository/build/intermediates/compile_only_not_namespaced_r_class_jar/debug/R.jar" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/intermediates/compile_only_not_namespaced_r_class_jar/debug/R.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repository/build/intermediates/full_jar/debug/createFullJarDebug/full.jar" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/intermediates/full_jar/debug/createFullJarDebug/full.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository/build/intermediates/incremental/debug-mergeJavaRes/merge-state" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/repository/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository/build/intermediates/merged_java_res/debug/out.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository/build/intermediates/packaged-classes/debug/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/build/intermediates/merged_java_res/debug/out.jar" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/intermediates/merged_java_res/debug/out.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/build/intermediates/packaged-classes/debug/classes.jar" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/intermediates/packaged-classes/debug/classes.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repository/build/intermediates/runtime_library_classes/debug/classes.jar" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/intermediates/runtime_library_classes/debug/classes.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/build-history.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/inputs/source-to-output.tab" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/inputs/source-to-output.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/inputs/source-to-output.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/inputs/source-to-output.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/inputs/source-to-output.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/inputs/source-to-output.tab.len" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/inputs/source-to-output.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/inputs/source-to-output.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/inputs/source-to-output.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/inputs/source-to-output.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" afterDir="false" />
@@ -311,9 +216,17 @@
       <change beforePath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.len" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.len" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab.keystream" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab.keystream.len" afterDir="false" />
@@ -321,10 +234,18 @@
       <change beforePath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab.values.at" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab.len" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/lookups/counters.tab" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/lookups/counters.tab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/lookups/file-to-id.tab" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/lookups/file-to-id.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/lookups/file-to-id.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/lookups/file-to-id.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/lookups/file-to-id.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/lookups/file-to-id.tab.len" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/lookups/file-to-id.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/lookups/file-to-id.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/lookups/file-to-id.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/lookups/file-to-id.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab.keystream" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" afterDir="false" />
@@ -340,15 +261,35 @@
       <change beforePath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/compileDebugKotlin/last-build.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/build-history.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/inputs/source-to-output.tab" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/inputs/source-to-output.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/inputs/source-to-output.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/inputs/source-to-output.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/inputs/source-to-output.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/inputs/source-to-output.tab.len" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/inputs/source-to-output.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/inputs/source-to-output.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/inputs/source-to-output.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/inputs/source-to-output.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/proto.tab" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/proto.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.len" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/proto.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/proto.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.len" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab.keystream" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab.keystream.len" afterDir="false" />
@@ -356,10 +297,18 @@
       <change beforePath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab.values.at" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab.len" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/counters.tab" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/counters.tab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/file-to-id.tab" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/file-to-id.tab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/file-to-id.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/file-to-id.tab.keystream" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/file-to-id.tab.len" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/file-to-id.tab.len" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/file-to-id.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/file-to-id.tab.values.at" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/file-to-id.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/file-to-id.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/id-to-file.tab" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/id-to-file.tab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/id-to-file.tab.keystream" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/id-to-file.tab.keystream" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" afterDir="false" />
@@ -373,32 +322,122 @@
       <change beforePath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/lookups.tab.values.at" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/lookups.tab.values.at" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/lookups.tab_i" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/caches-jvm/lookups/lookups.tab_i" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/kotlin/kaptGenerateStubsDebugKotlin/last-build.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository/build/outputs/aar/repository-debug.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/build/outputs/aar/repository-debug.aar" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/outputs/aar/repository-debug.aar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repository/build/tmp/kapt3/incApCache/debug/apt-cache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/tmp/kapt3/incApCache/debug/apt-cache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repository/build/tmp/kapt3/incApCache/debug/classpath-structure.bin" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/tmp/kapt3/incApCache/debug/classpath-structure.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/repository/build/tmp/kapt3/incApCache/debug/java-cache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/tmp/kapt3/incApCache/debug/java-cache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository/build/tmp/kapt3/incrementalData/debug/api/datasource/ds/DsMovie.class" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/tmp/kapt3/incrementalData/debug/api/datasource/ds/DsMovie.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository/build/tmp/kapt3/incrementalData/debug/api/datasource/factory/DsfMovie.class" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/tmp/kapt3/incrementalData/debug/api/datasource/factory/DsfMovie.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository/build/tmp/kapt3/incrementalData/debug/api/movie/RestApiMovie.class" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/tmp/kapt3/incrementalData/debug/api/movie/RestApiMovie.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository/build/tmp/kapt3/stubs/debug/api/datasource/ds/DsMovie.java" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/tmp/kapt3/stubs/debug/api/datasource/ds/DsMovie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository/build/tmp/kapt3/stubs/debug/api/datasource/ds/DsMovie.kapt_metadata" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/tmp/kapt3/stubs/debug/api/datasource/ds/DsMovie.kapt_metadata" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository/build/tmp/kapt3/stubs/debug/api/datasource/factory/DsfMovie.java" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/tmp/kapt3/stubs/debug/api/datasource/factory/DsfMovie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository/build/tmp/kapt3/stubs/debug/api/datasource/factory/DsfMovie.kapt_metadata" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/tmp/kapt3/stubs/debug/api/datasource/factory/DsfMovie.kapt_metadata" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository/build/tmp/kapt3/stubs/debug/api/movie/ApiRepository.kapt_metadata" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/tmp/kapt3/stubs/debug/api/movie/ApiRepository.kapt_metadata" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository/build/tmp/kapt3/stubs/debug/api/movie/RestApiMovie.java" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/tmp/kapt3/stubs/debug/api/movie/RestApiMovie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository/build/tmp/kapt3/stubs/debug/api/movie/RestApiMovie.kapt_metadata" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/tmp/kapt3/stubs/debug/api/movie/RestApiMovie.kapt_metadata" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository/build/tmp/kotlin-classes/debug/api/datasource/ds/DsMovie$loadInitial$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/tmp/kotlin-classes/debug/api/datasource/ds/DsMovie$loadInitial$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository/build/tmp/kotlin-classes/debug/api/datasource/ds/DsMovie$loadInitial$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/tmp/kotlin-classes/debug/api/datasource/ds/DsMovie$loadInitial$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository/build/tmp/kotlin-classes/debug/api/datasource/ds/DsMovie$loadInitial$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/tmp/kotlin-classes/debug/api/datasource/ds/DsMovie$loadInitial$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository/build/tmp/kotlin-classes/debug/api/datasource/ds/DsMovie.class" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/tmp/kotlin-classes/debug/api/datasource/ds/DsMovie.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository/build/tmp/kotlin-classes/debug/api/datasource/factory/DsfMovie.class" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/tmp/kotlin-classes/debug/api/datasource/factory/DsfMovie.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository/build/tmp/kotlin-classes/debug/api/movie/ApiRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/tmp/kotlin-classes/debug/api/movie/ApiRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository/build/tmp/kotlin-classes/debug/api/movie/RestApiMovie.class" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/tmp/kotlin-classes/debug/api/movie/RestApiMovie.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository/repository.iml" beforeDir="false" afterPath="$PROJECT_DIR$/repository/repository.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository/src/main/java/api/datasource/ds/DsMovie.kt" beforeDir="false" afterPath="$PROJECT_DIR$/repository/src/main/java/api/datasource/ds/DsMovie.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository/src/main/java/api/datasource/factory/DsfMovie.kt" beforeDir="false" afterPath="$PROJECT_DIR$/repository/src/main/java/api/datasource/factory/DsfMovie.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository/src/main/java/api/movie/ApiRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/repository/src/main/java/api/movie/ApiRepository.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repository/src/main/java/api/movie/RestApiMovie.kt" beforeDir="false" afterPath="$PROJECT_DIR$/repository/src/main/java/api/movie/RestApiMovie.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/build/tmp/kapt3/incrementalData/debug/api/ApiService.class" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/tmp/kapt3/incrementalData/debug/api/ApiService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/build/tmp/kapt3/stubs/debug/api/ApiService.java" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/tmp/kapt3/stubs/debug/api/ApiService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/build/tmp/kapt3/stubs/debug/api/ApiService.kapt_metadata" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/tmp/kapt3/stubs/debug/api/ApiService.kapt_metadata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/build/tmp/kotlin-classes/debug/api/ApiService.class" beforeDir="false" afterPath="$PROJECT_DIR$/repository/build/tmp/kotlin-classes/debug/api/ApiService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repository/src/main/java/api/ApiService.kt" beforeDir="false" afterPath="$PROJECT_DIR$/repository/src/main/java/api/ApiService.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/.transforms/03ca3d783eac27d91d38f920c91ab6e8.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/.transforms/2d6bc9dcb19ba685da4bce76b67872f1.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/.transforms/2d6bc9dcb19ba685da4bce76b67872f1/full/classes.dex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/intermediates/annotation_processor_list/debug/annotationProcessors.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/intermediates/compile_library_classes/debug/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/intermediates/compile_only_not_namespaced_r_class_jar/debug/R.jar" beforeDir="false" afterPath="$PROJECT_DIR$/tvApps/build/intermediates/compile_only_not_namespaced_r_class_jar/debug/R.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/intermediates/full_jar/debug/createFullJarDebug/full.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/intermediates/incremental/debug-mergeNativeLibs/merge-state" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" beforeDir="false" afterPath="$PROJECT_DIR$/tvApps/build/intermediates/incremental/packageDebugResources/compile-file-map.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/intermediates/javac/debug/classes/algorithm/kelvin/project/tvApps/BuildConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/intermediates/library_java_res/debug/res.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/intermediates/runtime_library_classes/debug/classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/kotlin/compileDebugKotlin/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/tvApps/build/kotlin/compileDebugKotlin/build-history.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/kotlin/compileDebugKotlin/caches-jvm/inputs/source-to-output.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/kotlin/compileDebugKotlin/caches-jvm/inputs/source-to-output.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/kotlin/compileDebugKotlin/caches-jvm/inputs/source-to-output.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/kotlin/compileDebugKotlin/caches-jvm/inputs/source-to-output.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/class-fq-name-to-source.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/internal-name-to-source.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/java-sources-proto-map.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/java-sources-proto-map.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/java-sources-proto-map.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/java-sources-proto-map.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/java-sources-proto-map.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/proto.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/source-to-classes.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/subtypes.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/kotlin/compileDebugKotlin/caches-jvm/jvm/kotlin/supertypes.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/kotlin/compileDebugKotlin/caches-jvm/lookups/counters.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/kotlin/compileDebugKotlin/caches-jvm/lookups/file-to-id.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/kotlin/compileDebugKotlin/caches-jvm/lookups/file-to-id.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/kotlin/compileDebugKotlin/caches-jvm/lookups/file-to-id.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/kotlin/compileDebugKotlin/caches-jvm/lookups/file-to-id.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/kotlin/compileDebugKotlin/caches-jvm/lookups/file-to-id.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/kotlin/compileDebugKotlin/caches-jvm/lookups/file-to-id.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/kotlin/compileDebugKotlin/caches-jvm/lookups/file-to-id.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/kotlin/compileDebugKotlin/caches-jvm/lookups/id-to-file.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab.keystream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab.keystream.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab.values.at" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab_i" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/kotlin/compileDebugKotlin/caches-jvm/lookups/lookups.tab_i.len" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/kotlin/kaptGenerateStubsDebugKotlin/build-history.bin" beforeDir="false" afterPath="$PROJECT_DIR$/tvApps/build/kotlin/kaptGenerateStubsDebugKotlin/build-history.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/kotlin/kaptGenerateStubsDebugKotlin/last-build.bin" beforeDir="false" afterPath="$PROJECT_DIR$/tvApps/build/kotlin/kaptGenerateStubsDebugKotlin/last-build.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/tmp/kapt3/incApCache/debug/classpath-structure.bin" beforeDir="false" afterPath="$PROJECT_DIR$/tvApps/build/tmp/kapt3/incApCache/debug/classpath-structure.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/tmp/kotlin-classes/debug/META-INF/tvApps_debug.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/tmp/kotlin-classes/debug/algorithm/kelvin/tvApps/AiringToday$airingTodayViewModel$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/tmp/kotlin-classes/debug/algorithm/kelvin/tvApps/AiringToday$onViewCreated$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/tmp/kotlin-classes/debug/algorithm/kelvin/tvApps/AiringToday$onViewCreated$1$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/tmp/kotlin-classes/debug/algorithm/kelvin/tvApps/AiringToday$onViewCreated$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/tmp/kotlin-classes/debug/algorithm/kelvin/tvApps/AiringToday.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/tmp/kotlin-classes/debug/algorithm/kelvin/tvApps/OnTheAir$onTheAirViewModel$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/tmp/kotlin-classes/debug/algorithm/kelvin/tvApps/OnTheAir$onViewCreated$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/tmp/kotlin-classes/debug/algorithm/kelvin/tvApps/OnTheAir$onViewCreated$1$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/tmp/kotlin-classes/debug/algorithm/kelvin/tvApps/OnTheAir$onViewCreated$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/tmp/kotlin-classes/debug/algorithm/kelvin/tvApps/OnTheAir.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/tmp/kotlin-classes/debug/algorithm/kelvin/tvApps/Popular$onViewCreated$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/tmp/kotlin-classes/debug/algorithm/kelvin/tvApps/Popular$onViewCreated$1$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/tmp/kotlin-classes/debug/algorithm/kelvin/tvApps/Popular$onViewCreated$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/tmp/kotlin-classes/debug/algorithm/kelvin/tvApps/Popular$popularViewModel$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/tmp/kotlin-classes/debug/algorithm/kelvin/tvApps/Popular.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/tmp/kotlin-classes/debug/algorithm/kelvin/tvApps/TopRated$onViewCreated$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/tmp/kotlin-classes/debug/algorithm/kelvin/tvApps/TopRated$onViewCreated$1$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/tmp/kotlin-classes/debug/algorithm/kelvin/tvApps/TopRated$onViewCreated$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/tmp/kotlin-classes/debug/algorithm/kelvin/tvApps/TopRated$topRatedViewModel$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/tmp/kotlin-classes/debug/algorithm/kelvin/tvApps/TopRated.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/tmp/kotlin-classes/debug/algorithm/kelvin/tvApps/viewmodel/AiringTodayViewModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/tmp/kotlin-classes/debug/algorithm/kelvin/tvApps/viewmodel/OnTheAirViewModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/tmp/kotlin-classes/debug/algorithm/kelvin/tvApps/viewmodel/PopularViewModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/tmp/kotlin-classes/debug/algorithm/kelvin/tvApps/viewmodel/TopRatedViewModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tvApps/build/tmp/kotlin-classes/debug/algorithm/kelvin/tvApps/viewmodelfactory/TvVMFactory.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/buildSrc/.gradle/" />
     <ignored path="$PROJECT_DIR$/buildSrc/build/" />
@@ -411,7 +450,7 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="Nexus_5_API_19" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="TXURK18C28003060" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -427,34 +466,37 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/movieApps/src/main/java/algorithm/kelvin/project/movieApps/vmfactory/MovieVMFactory.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-              <folding>
-                <element signature="e#54#499#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/movieApps/src/main/java/algorithm/kelvin/project/movieApps/viewmodel/PopularViewModel.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="16" column="1" selection-start-line="9" selection-start-column="22" selection-end-line="16" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/movieApps/src/main/java/algorithm/kelvin/project/movieApps/viewmodel/NowPlayingViewModel.kt">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/algorithm/kelvin/project/ca_info/view/TVFragment.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="329">
-              <caret line="14" column="37" selection-start-line="14" selection-start-column="37" selection-end-line="14" selection-end-column="37" />
-              <folding>
-                <element signature="e#54#266#0" expanded="true" />
-              </folding>
+              <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tvApps/src/main/java/algorithm/kelvin/tvApps/AiringToday.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="173">
+              <caret line="37" column="98" selection-start-line="37" selection-start-column="98" selection-end-line="37" selection-end-column="98" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tvApps/src/main/java/algorithm/kelvin/tvApps/Popular.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="155">
+              <caret line="37" column="94" selection-start-line="37" selection-start-column="94" selection-end-line="37" selection-end-column="94" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/tvApps/src/main/java/algorithm/kelvin/tvApps/TopRated.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="212">
+              <caret line="34" column="49" selection-start-line="34" selection-start-column="49" selection-end-line="34" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -462,8 +504,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/movieApps/src/main/java/algorithm/kelvin/project/movieApps/NowPlaying.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
-              <caret line="38" column="55" selection-start-line="38" selection-start-column="55" selection-end-line="38" selection-end-column="55" />
+            <state relative-caret-position="284">
+              <caret line="40" column="13" lean-forward="true" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
               <folding>
                 <element signature="e#74#749#0" expanded="true" />
               </folding>
@@ -472,17 +514,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/movieApps/src/main/res/layout/fragment_popular.xml">
-          <provider editor-type-id="android-designer2" />
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/movieApps/src/main/res/layout/fragment_now_playing.xml">
-          <provider editor-type-id="android-designer2" />
+        <entry file="file://$PROJECT_DIR$/tvApps/src/main/java/algorithm/kelvin/tvApps/OnTheAir.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+            <state relative-caret-position="181">
+              <caret line="37" column="95" selection-start-line="37" selection-start-column="95" selection-end-line="37" selection-end-column="95" />
             </state>
           </provider>
         </entry>
@@ -493,12 +528,12 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/movieApps/src/main/res/layout/item_data_movie.xml">
           <provider editor-type-id="android-designer2" />
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
-              <caret line="22" column="38" lean-forward="true" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+            <state relative-caret-position="696">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
             </state>
           </provider>
         </entry>
@@ -506,7 +541,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/repository/src/main/java/api/datasource/ds/DsMovie.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
+            <state relative-caret-position="384">
               <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
               <folding>
                 <element signature="e#27#300#0" expanded="true" />
@@ -518,7 +553,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/repository/src/main/java/api/datasource/factory/DsfMovie.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
+            <state relative-caret-position="288">
               <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
             </state>
           </provider>
@@ -544,10 +579,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/fragment_tv.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/algorithm/kelvin/project/ca_info/MainActivity.kt" />
-        <option value="$PROJECT_DIR$/itemData/src/main/res/values/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/itemData/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/itemData/src/main/res/values/item_data_movie.xml" />
         <option value="$PROJECT_DIR$/itemData/src/main/java/TV.kt" />
         <option value="$PROJECT_DIR$/itemData/src/main/java/Movie.kt" />
@@ -595,6 +626,10 @@
         <option value="$PROJECT_DIR$/app/build.gradle.kts" />
         <option value="$PROJECT_DIR$/movieApps/src/main/java/algorithm/kelvin/project/movieApps/viewmodel/NowPlayingViewModel.kt" />
         <option value="$PROJECT_DIR$/app/src/main/java/algorithm/kelvin/project/ca_info/view/MovieFragment.kt" />
+        <option value="$PROJECT_DIR$/tvApps/src/main/java/algorithm/kelvin/tvApps/AiringToday.kt" />
+        <option value="$PROJECT_DIR$/tvApps/src/main/java/algorithm/kelvin/tvApps/OnTheAir.kt" />
+        <option value="$PROJECT_DIR$/tvApps/src/main/java/algorithm/kelvin/tvApps/Popular.kt" />
+        <option value="$PROJECT_DIR$/tvApps/src/main/java/algorithm/kelvin/tvApps/TopRated.kt" />
       </list>
     </option>
   </component>
@@ -608,54 +643,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView">
-        <subPane>
-          <expand>
-            <path>
-              <item name="CaInfo" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="e9137016:NonAndroidModuleNode" />
-            </path>
-            <path>
-              <item name="CaInfo" type="1abcf292:AndroidViewProjectNode" />
-              <item name="buildSrc" type="e9137016:NonAndroidModuleNode" />
-            </path>
-            <path>
-              <item name="CaInfo" type="1abcf292:AndroidViewProjectNode" />
-              <item name="buildSrc" type="e9137016:NonAndroidModuleNode" />
-              <item name="java" type="f7eae187:NonAndroidSourceTypeNode" />
-            </path>
-            <path>
-              <item name="CaInfo" type="1abcf292:AndroidViewProjectNode" />
-              <item name="itemData" type="e9137016:NonAndroidModuleNode" />
-            </path>
-            <path>
-              <item name="CaInfo" type="1abcf292:AndroidViewProjectNode" />
-              <item name="movieApps" type="e9137016:NonAndroidModuleNode" />
-            </path>
-            <path>
-              <item name="CaInfo" type="1abcf292:AndroidViewProjectNode" />
-              <item name="movieApps" type="e9137016:NonAndroidModuleNode" />
-              <item name="resources" type="f7eae187:NonAndroidSourceTypeNode" />
-            </path>
-            <path>
-              <item name="CaInfo" type="1abcf292:AndroidViewProjectNode" />
-              <item name="movieApps" type="e9137016:NonAndroidModuleNode" />
-              <item name="resources" type="f7eae187:NonAndroidSourceTypeNode" />
-              <item name="layout" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CaInfo" type="1abcf292:AndroidViewProjectNode" />
-              <item name="repository" type="e9137016:NonAndroidModuleNode" />
-            </path>
-            <path>
-              <item name="CaInfo" type="1abcf292:AndroidViewProjectNode" />
-              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -671,90 +659,173 @@
             <path>
               <item name="CaInfo" type="b2602c69:ProjectViewProjectNode" />
               <item name="Ca-INFO" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CaInfo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ca-INFO" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CaInfo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ca-INFO" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CaInfo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ca-INFO" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="view" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CaInfo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ca-INFO" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="res" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CaInfo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ca-INFO" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="res" type="462c0819:PsiDirectoryNode" />
-              <item name="layout" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CaInfo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ca-INFO" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="res" type="462c0819:PsiDirectoryNode" />
-              <item name="values" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CaInfo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ca-INFO" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="buildSrc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="CaInfo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ca-INFO" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="buildSrc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CaInfo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ca-INFO" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="buildSrc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CaInfo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Ca-INFO" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="buildSrc" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CaInfo" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="CaInfo" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="CaInfo" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="view" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CaInfo" type="1abcf292:AndroidViewProjectNode" />
+              <item name="buildSrc" type="e9137016:NonAndroidModuleNode" />
+            </path>
+            <path>
+              <item name="CaInfo" type="1abcf292:AndroidViewProjectNode" />
+              <item name="buildSrc" type="e9137016:NonAndroidModuleNode" />
+              <item name="java" type="f7eae187:NonAndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="CaInfo" type="1abcf292:AndroidViewProjectNode" />
+              <item name="itemData" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="CaInfo" type="1abcf292:AndroidViewProjectNode" />
+              <item name="itemData" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="CaInfo" type="1abcf292:AndroidViewProjectNode" />
+              <item name="itemData" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="dataItem" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CaInfo" type="1abcf292:AndroidViewProjectNode" />
+              <item name="itemData" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="dataItem" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="adapter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CaInfo" type="1abcf292:AndroidViewProjectNode" />
+              <item name="itemData" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="dataItem" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CaInfo" type="1abcf292:AndroidViewProjectNode" />
+              <item name="movieApps" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="CaInfo" type="1abcf292:AndroidViewProjectNode" />
+              <item name="movieApps" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="CaInfo" type="1abcf292:AndroidViewProjectNode" />
+              <item name="movieApps" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="movieApps" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CaInfo" type="1abcf292:AndroidViewProjectNode" />
+              <item name="movieApps" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="movieApps" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="viewmodel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CaInfo" type="1abcf292:AndroidViewProjectNode" />
+              <item name="movieApps" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="movieApps" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="vmfactory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CaInfo" type="1abcf292:AndroidViewProjectNode" />
+              <item name="repository" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="CaInfo" type="1abcf292:AndroidViewProjectNode" />
+              <item name="repository" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="CaInfo" type="1abcf292:AndroidViewProjectNode" />
+              <item name="repository" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="api" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CaInfo" type="1abcf292:AndroidViewProjectNode" />
+              <item name="repository" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="api" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="datasource" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CaInfo" type="1abcf292:AndroidViewProjectNode" />
+              <item name="repository" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="api" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="datasource" type="462c0819:PsiDirectoryNode" />
+              <item name="ds" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CaInfo" type="1abcf292:AndroidViewProjectNode" />
+              <item name="repository" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="api" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="datasource" type="462c0819:PsiDirectoryNode" />
+              <item name="factory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CaInfo" type="1abcf292:AndroidViewProjectNode" />
+              <item name="repository" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="api" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="movie" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CaInfo" type="1abcf292:AndroidViewProjectNode" />
+              <item name="repository" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="api" type="cbb59c9e:AndroidPsiDirectoryNode" />
+              <item name="tv" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CaInfo" type="1abcf292:AndroidViewProjectNode" />
+              <item name="tvApps" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="CaInfo" type="1abcf292:AndroidViewProjectNode" />
+              <item name="tvApps" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="CaInfo" type="1abcf292:AndroidViewProjectNode" />
+              <item name="tvApps" type="feadf853:AndroidModuleNode" />
+              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="tvApps" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CaInfo" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
       <pane id="Course" />
     </panes>
   </component>
@@ -937,6 +1008,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="1" />
@@ -948,14 +1020,14 @@
       <window_info id="Resources Explorer" order="7" />
       <window_info id="Structure" order="8" side_tool="true" />
       <window_info id="UI Designer" order="9" />
-      <window_info anchor="bottom" id="Build" order="0" weight="0.3973029" />
+      <window_info anchor="bottom" id="Build" order="0" visible="true" weight="0.3973029" />
       <window_info anchor="bottom" id="Run" order="1" sideWeight="0.49928468" weight="0.3280098" />
       <window_info anchor="bottom" id="Android Profiler" order="2" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.5007153" side_tool="true" weight="0.3280098" />
       <window_info anchor="bottom" id="Logcat" order="4" weight="0.3820639" />
       <window_info anchor="bottom" id="Flutter Performance" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.5" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.5" />
       <window_info anchor="bottom" id="TODO" order="8" />
       <window_info anchor="bottom" id="Find" order="9" weight="0.3280098" />
       <window_info anchor="bottom" id="Debug" order="10" />
@@ -980,41 +1052,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Success make Modularization" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/buildSrc/build.gradle.kts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/algorithm/kelvin/project/ca_info/vmfactory/MovieVMFactory.kt" />
-    <entry file="file://$PROJECT_DIR$/itemData/src/main/java/dataItem/adapter/DataDiffUtil.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-          <folding>
-            <element signature="e#26#109#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/itemData/src/main/java/dataItem/adapter/Binding.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/itemData/src/main/java/dataItem/adapter/AdapterData.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="41" column="24" selection-start-line="41" selection-start-column="24" selection-end-line="41" selection-end-column="24" />
-          <folding>
-            <element signature="e#26#235#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/itemData/src/main/java/dataItem/adapter/AdapterDataSetup.kt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="87">
@@ -1173,13 +1210,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/algorithm/kelvin/project/ca_info/view/TVFragment.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/movieApps/src/main/java/algorithm/kelvin/project/movieApps/Related.kt" />
     <entry file="file://$PROJECT_DIR$/repository/src/main/java/api/ApiService.kt">
       <provider selected="true" editor-type-id="text-editor">
@@ -1231,15 +1261,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/build.gradle.kts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="38" column="38" selection-start-line="38" selection-start-column="38" selection-end-line="38" selection-end-column="38" />
+        <state>
+          <caret line="40" column="1" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/settings.gradle.kts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
@@ -1277,16 +1307,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/movieApps/src/main/java/algorithm/kelvin/project/movieApps/NowPlaying.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="38" column="55" selection-start-line="38" selection-start-column="55" selection-end-line="38" selection-end-column="55" />
-          <folding>
-            <element signature="e#74#749#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/movieApps/src/main/res/layout/fragment_popular.xml">
       <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor" />
@@ -1305,7 +1325,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/repository/src/main/java/api/datasource/ds/DsMovie.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
+        <state relative-caret-position="384">
           <caret line="16" column="29" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
           <folding>
             <element signature="e#27#300#0" expanded="true" />
@@ -1315,7 +1335,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/repository/src/main/java/api/datasource/factory/DsfMovie.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
+        <state relative-caret-position="288">
           <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
         </state>
       </provider>
@@ -1323,8 +1343,8 @@
     <entry file="file://$PROJECT_DIR$/movieApps/src/main/res/layout/item_data_movie.xml">
       <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="22" column="38" lean-forward="true" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+        <state relative-caret-position="696">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>
@@ -1332,6 +1352,58 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="52" selection-start-line="4" selection-start-column="52" selection-end-line="4" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/algorithm/kelvin/project/ca_info/view/TVFragment.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/buildSrc/buildSrc.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movieApps/src/main/java/algorithm/kelvin/project/movieApps/NowPlaying.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="40" column="13" lean-forward="true" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+          <folding>
+            <element signature="e#74#749#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tvApps/src/main/java/algorithm/kelvin/tvApps/AiringToday.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="37" column="98" selection-start-line="37" selection-start-column="98" selection-end-line="37" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tvApps/src/main/java/algorithm/kelvin/tvApps/OnTheAir.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="37" column="95" selection-start-line="37" selection-start-column="95" selection-end-line="37" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tvApps/src/main/java/algorithm/kelvin/tvApps/Popular.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="37" column="94" selection-start-line="37" selection-start-column="94" selection-end-line="37" selection-end-column="94" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tvApps/src/main/java/algorithm/kelvin/tvApps/TopRated.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="34" column="49" selection-start-line="34" selection-start-column="49" selection-end-line="34" selection-end-column="49" />
         </state>
       </provider>
     </entry>

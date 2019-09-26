@@ -1,3 +1,8 @@
 package dataItem.data
 
-data class TV(val dataTV: ArrayList<Data.ListCatalog>? = null)
+import com.google.gson.annotations.SerializedName
+
+data class TV(
+    @field:SerializedName("results")
+    val dataTV: ArrayList<Data.ListCatalogTV>? = null
+)
