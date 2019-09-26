@@ -35,6 +35,4 @@ dependencies {
     testImplementation(Dependencies.TestingLibrary.testJunit)
     androidTestImplementation(Dependencies.TestingLibrary.androidTestRunner)
     androidTestImplementation(Dependencies.TestingLibrary.androidTestEspresso)
-
-    implementation(project(":movieApps"))
 }
