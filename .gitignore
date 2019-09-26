@@ -4,3 +4,10 @@
 /.idea/caches
 .idea/workspace.xml
 /build
+app/.gitignore
+app/app.iml
+buildSrc/.gradle/
+buildSrc/buildSrc.iml
+itemData/itemData.iml
+movieApps/movieApps.iml
+repository/repository.iml
