@@ -2,7 +2,6 @@ package algorithm.kelvin.project.ca_info.view
 
 import algorithm.kelvin.project.ca_info.R
 import algorithm.kelvin.project.movieApps.NowPlaying
-import algorithm.kelvin.project.movieApps.Related
 import algorithm.kelvin.tvApps.AiringToday
 import algorithm.kelvin.tvApps.OnTheAir
 import algorithm.kelvin.tvApps.Popular
@@ -12,7 +11,6 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
-import kotlinx.android.synthetic.main.fragment_movie.*
 import kotlinx.android.synthetic.main.fragment_tv.*
 
 class TVFragment : Fragment() {
