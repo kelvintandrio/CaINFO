@@ -10,9 +10,15 @@ import io.reactivex.disposables.CompositeDisposable
 
 class ApiRepository: ApiInterface {
     private val apiService = ApiService.iniRetrofitMovie()
+
     override fun getMovie(compositeDisposable: CompositeDisposable, type: String): LiveData<PagedList<Data.ListCatalog>> =
+        LivePagedListBuilder(DsfMovie(compositeDisposable, apiService, 0, type), 5).build()
+    /*override fun getMovie(compositeDisposable: CompositeDisposable, type: String): LiveData<PagedList<Data.ListCatalog>> =
         when(type) {
-            "now playing" -> LivePagedListBuilder(DsfMovie(compositeDisposable, apiService.getDataMovieNowPlaying(), 0), 5).build()
-            else -> LivePagedListBuilder(DsfMovie(compositeDisposable, apiService.getDataMovieNowPlaying(), 0), 5).build()
-        }
+            "now playing" -> LivePagedListBuilder(DsfMovie(compositeDisposable, apiService.getDataMovieNowPlaying(1), 0), 5).build()
+            "top related" -> LivePagedListBuilder(DsfMovie(compositeDisposable, apiService.getDataMovieTopRelated(1), 0), 5).build()
+            "up coming" -> LivePagedListBuilder(DsfMovie(compositeDisposable, apiService.getDataMovieUpcoming(1), 0), 5).build()
+            "popular" -> LivePagedListBuilder(DsfMovie(compositeDisposable, apiService.getDataMoviePopular(1), 0), 5).build()
+            else -> LivePagedListBuilder(DsfMovie(compositeDisposable, apiService.getDataMovieNowPlaying(1), 0), 5).build()
+        }*/
 }

@@ -1,33 +1,30 @@
 package dataItem.adapter
 
+import android.content.Context
 import androidx.paging.PagedList
 import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import androidx.recyclerview.widget.StaggeredGridLayoutManager
 
-fun <T> RecyclerView.setupAdapterData(layout: Int, setData: AdapterDataSetup<T>.() -> Unit) {
-    setData(AdapterDataSetup(layout, this))
+fun <T> RecyclerView.setupAdapterData(layout: Int, context: Context, setData: AdapterDataSetup<T>.() -> Unit) {
+    setData(AdapterDataSetup(layout, context, this))
 }
 
 @Suppress("UNCHECKED_CAST")
-class AdapterDataSetup<T>(layout: Int, private val recyclerView: RecyclerView) {
+class AdapterDataSetup<T>(layout: Int, context: Context, private val recyclerView: RecyclerView) {
     private val linearLayoutManagerHorizontal = "LINEAR LAYOUT MANAGER HORIZONTAL"
     private val gridLayoutManager = "GRID LAYOUT MANAGER"
     private val staggeredGridLayoutManagerVertical = "STAGGERED GRID LAYOUT MANAGER VERTICAL"
     private val staggeredGridLayoutManagerHorizontal = "STAGGERED GRID LAYOUT MANAGER HORIZONTAL"
     private val default = "DEFAULT"
-    private var adapterData = AdapterData<T>(layout)
+    private var adapterData = AdapterData<T>(layout, context)
+
+    fun linearLayoutManager(): String = default
 
     fun data(data: Binding<T>.() -> Unit) {
         adapterData.setData(data as Binding<*>.() -> Unit)
     }
-
-    fun linearLayoutManager(): String = default
-
-    /*fun setData(list: List<T>?) {
-        adapterData.addListData(list)
-    }*/
 
     fun setLayoutManager(layoutManager: String, grid: Int) {
         when(layoutManager) {

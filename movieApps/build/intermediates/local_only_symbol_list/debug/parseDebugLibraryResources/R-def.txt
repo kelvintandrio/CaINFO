@@ -1,15 +1,21 @@
 R_DEF: Internal format may change without notice
 local
 color colorWhite
+drawable bg_item_movie
+drawable sample_poster_movie
 id imgPosterMovie
-id rvMovie
+id rvNowPlaying
+id rvPopular
+id rvRelated
+id rvUpComing
 id tvReleaseDateMovie
 id tvTitleMovie
 layout fragment_now_playing
+layout fragment_popular
 layout fragment_related
+layout fragment_upcoming
 layout item_data_movie
 string date
-string hello_blank_fragment
 string title
 style LayoutWidthHeightTypeOne
 style LayoutWidthHeightTypeTwo

@@ -1,0 +1,19 @@
+R_DEF: Internal format may change without notice
+local
+drawable bg_item_tv
+id imgPosterTv
+id rvAiringToday
+id rvOnTheAir
+id rvPopular
+id rvTopRated
+id tvReleaseDateTv
+id tvTitleTv
+layout fragment_airing_today
+layout fragment_on_the_air
+layout fragment_popular
+layout fragment_top_rated
+layout item_data_tv
+string app_name
+string date
+string hello_blank_fragment
+string title
