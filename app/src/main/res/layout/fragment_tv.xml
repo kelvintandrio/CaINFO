@@ -1,17 +1,59 @@
 <?xml version="1.0" encoding="utf-8"?>
-<FrameLayout
-    xmlns:android="http://schemas.android.com/apk/res/android"
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:id="@+id/frameTV"
     android:background="@android:color/holo_blue_dark"
     tools:context=".view.TVFragment">
 
-    <!-- TODO: Update blank fragment layout -->
-    <TextView
+    <LinearLayout
+        android:orientation="vertical"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/hello_blank_fragment" />
+        tools:ignore="UselessParent">
+
+        <HorizontalScrollView
+            android:scrollbars="none"
+            style="@style/LayoutWidthHeightTypeTwo">
+
+            <LinearLayout
+                android:layout_marginTop="8dp"
+                android:orientation="horizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <TextView
+                    android:id="@+id/tvAiringToday"
+                    style="@style/StyleTabChildItem"
+                    android:text="@string/airing_today"/>
+
+                <TextView
+                    android:id="@+id/tvPopular"
+                    style="@style/StyleTabChildItem"
+                    android:text="@string/popular"/>
+
+                <TextView
+                    android:id="@+id/tvOnTheAir"
+                    style="@style/StyleTabChildItem"
+                    android:text="@string/on_the_air"/>
+
+                <TextView
+                    android:id="@+id/tvTopRated"
+                    style="@style/StyleTabChildItem"
+                    android:text="@string/top_related"/>
+
+            </LinearLayout>
+
+        </HorizontalScrollView>
+
+        <androidx.viewpager.widget.ViewPager
+            android:id="@+id/tv_viewpager"
+            android:layout_marginTop="8dp"
+            style="@style/LayoutWidthHeightTypeOne"
+            app:layout_behavior="com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior" />
+
+    </LinearLayout>
 
 </FrameLayout>

@@ -15,4 +15,6 @@
     <string name="popular">Popular</string>
     <string name="up_coming">Up Coming</string>
     <string name="top_related">Top Related</string>
+    <string name="airing_today">Airing Today</string>
+    <string name="on_the_air">On The Air</string>
 </resources>
