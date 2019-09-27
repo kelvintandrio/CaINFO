@@ -1,2 +1,2 @@
-include (":app",":itemData",":repository",":movieApps", ":tvApps")
+include (":app",":itemData",":repository",":movieApps", ":tvApps",":sportsApps")
 rootProject.name="CaInfo"
