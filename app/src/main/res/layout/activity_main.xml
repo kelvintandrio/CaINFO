@@ -84,6 +84,7 @@
             </androidx.constraintlayout.widget.ConstraintLayout>
 
             <androidx.constraintlayout.widget.ConstraintLayout
+                android:id="@+id/tabSports"
                 style="@style/LayoutTab">
 
                 <ImageView

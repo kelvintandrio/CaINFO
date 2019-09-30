@@ -10,6 +10,7 @@ android {
 
     defaultConfig {
         buildConfigField("String", "URL_MOVIE_CATALOG", "\"https://api.themoviedb.org\"")
+        buildConfigField("String", "URL_SPORTS_CATALOG", "\"https://www.thesportsdb.com\"")
         buildConfigField("String", "API_KEY", "\"5a9914ea9eb3bfc1addfe13b0b92b0b4\"")
         buildConfigField("String", "URL_IMAGE", "\"https://image.tmdb.org/t/p/w185\"")
         buildConfigField("String", "URL_POSTER", "\"https://image.tmdb.org/t/p/w780\"")
